@@ -1,0 +1,8835 @@
+================================== 
+=== Warnings About Source Data === 
+================================== 
+      Product 2376 refers to product 3038 for which there is no definition in the source data.
+      Product 3297 refers to product 3355 for which there is no definition in the source data.
+
+================================== 
+=== Product Levels per Product === 
+================================== 
+Item 1000 Level - 0
+Item 1001 Level - 3
+Item 1002 Level - 2
+Item 1003 Level - 1
+Item 1004 Level - 0
+Item 1005 Level - 0
+Item 1006 Level - 0
+Item 1009 Level - 1
+Item 1010 Level - 1
+Item 1011 Level - 0
+Item 1012 Level - 0
+Item 1013 Level - 0
+Item 1014 Level - 0
+Item 1015 Level - 1
+Item 1016 Level - 1
+Item 1017 Level - 0
+Item 1018 Level - 1
+Item 1019 Level - 0
+Item 1020 Level - 1
+Item 1021 Level - 0
+Item 1022 Level - 3
+Item 1023 Level - 3
+Item 1024 Level - 3
+Item 1025 Level - 3
+Item 1026 Level - 2
+Item 1027 Level - 4
+Item 1028 Level - 4
+Item 1029 Level - 3
+Item 1030 Level - 0
+Item 1031 Level - 0
+Item 1032 Level - 0
+Item 1033 Level - 1
+Item 1034 Level - 1
+Item 1035 Level - 0
+Item 1036 Level - 3
+Item 1037 Level - 3
+Item 1038 Level - 1
+Item 1039 Level - 0
+Item 1184 Level - 2
+Item 1185 Level - 1
+Item 1186 Level - 1
+Item 1187 Level - 2
+Item 1188 Level - 2
+Item 1189 Level - 0
+Item 1190 Level - 1
+Item 1191 Level - 2
+Item 1192 Level - 1
+Item 1193 Level - 2
+Item 1194 Level - 2
+Item 1195 Level - 0
+Item 1196 Level - 1
+Item 1197 Level - 2
+Item 1198 Level - 2
+Item 1199 Level - 2
+Item 1200 Level - 1
+Item 1201 Level - 1
+Item 1202 Level - 2
+Item 1203 Level - 2
+Item 1204 Level - 2
+Item 1205 Level - 1
+Item 1206 Level - 2
+Item 1207 Level - 0
+Item 1208 Level - 1
+Item 1209 Level - 0
+Item 1210 Level - 0
+Item 1211 Level - 0
+Item 1212 Level - 1
+Item 1213 Level - 0
+Item 1214 Level - 1
+Item 1215 Level - 0
+Item 1216 Level - 0
+Item 1217 Level - 1
+Item 1218 Level - 0
+Item 1219 Level - 0
+Item 1220 Level - 0
+Item 1221 Level - 1
+Item 1222 Level - 1
+Item 1223 Level - 0
+Item 1224 Level - 1
+Item 1225 Level - 0
+Item 1226 Level - 0
+Item 1228 Level - 0
+Item 1229 Level - 0
+Item 1230 Level - 0
+Item 1231 Level - 0
+Item 1233 Level - 0
+Item 1234 Level - 1
+Item 1235 Level - 1
+Item 1236 Level - 0
+Item 1237 Level - 0
+Item 1238 Level - 1
+Item 1239 Level - 0
+Item 1240 Level - 0
+Item 1241 Level - 0
+Item 1242 Level - 1
+Item 1243 Level - 0
+Item 1244 Level - 1
+Item 1245 Level - 0
+Item 1246 Level - 0
+Item 1247 Level - 0
+Item 1248 Level - 1
+Item 1249 Level - 0
+Item 1250 Level - 0
+Item 1251 Level - 0
+Item 1252 Level - 1
+Item 1253 Level - 0
+Item 1254 Level - 0
+Item 1255 Level - 0
+Item 1256 Level - 0
+Item 1257 Level - 0
+Item 1258 Level - 0
+Item 1259 Level - 0
+Item 1260 Level - 0
+Item 1261 Level - 0
+Item 1262 Level - 0
+Item 1263 Level - 0
+Item 1264 Level - 0
+Item 1265 Level - 0
+Item 1266 Level - 0
+Item 1267 Level - 3
+Item 1268 Level - 3
+Item 1269 Level - 3
+Item 1270 Level - 3
+Item 1271 Level - 3
+Item 1272 Level - 3
+Item 1273 Level - 3
+Item 1274 Level - 3
+Item 1275 Level - 3
+Item 1276 Level - 3
+Item 1277 Level - 3
+Item 1278 Level - 0
+Item 1279 Level - 0
+Item 1280 Level - 0
+Item 1281 Level - 0
+Item 1282 Level - 2
+Item 1283 Level - 0
+Item 1284 Level - 0
+Item 1285 Level - 0
+Item 1286 Level - 0
+Item 1287 Level - 0
+Item 1288 Level - 0
+Item 1289 Level - 0
+Item 1290 Level - 0
+Item 1291 Level - 0
+Item 1292 Level - 0
+Item 1293 Level - 0
+Item 1294 Level - 0
+Item 1295 Level - 0
+Item 1296 Level - 0
+Item 1297 Level - 0
+Item 1299 Level - 1
+Item 1300 Level - 1
+Item 1301 Level - 0
+Item 1302 Level - 0
+Item 1303 Level - 1
+Item 1304 Level - 0
+Item 1305 Level - 0
+Item 1306 Level - 0
+Item 1307 Level - 0
+Item 1308 Level - 0
+Item 1309 Level - 0
+Item 1310 Level - 0
+Item 1311 Level - 0
+Item 1312 Level - 0
+Item 1313 Level - 0
+Item 1314 Level - 0
+Item 1315 Level - 0
+Item 1316 Level - 0
+Item 1317 Level - 0
+Item 1318 Level - 0
+Item 1319 Level - 0
+Item 1320 Level - 0
+Item 1321 Level - 0
+Item 1322 Level - 0
+Item 1323 Level - 0
+Item 1324 Level - 0
+Item 1325 Level - 0
+Item 1326 Level - 0
+Item 1327 Level - 0
+Item 1328 Level - 3
+Item 1329 Level - 1
+Item 1330 Level - 2
+Item 1331 Level - 2
+Item 1332 Level - 2
+Item 1333 Level - 2
+Item 1334 Level - 3
+Item 1335 Level - 3
+Item 1336 Level - 2
+Item 1337 Level - 3
+Item 1338 Level - 2
+Item 1339 Level - 2
+Item 1340 Level - 1
+Item 1341 Level - 3
+Item 1342 Level - 2
+Item 1343 Level - 2
+Item 1344 Level - 2
+Item 1345 Level - 2
+Item 1346 Level - 1
+Item 1347 Level - 1
+Item 1348 Level - 3
+Item 1349 Level - 3
+Item 1350 Level - 2
+Item 1351 Level - 2
+Item 1352 Level - 2
+Item 1353 Level - 1
+Item 1354 Level - 1
+Item 1355 Level - 1
+Item 1356 Level - 1
+Item 1357 Level - 1
+Item 1358 Level - 1
+Item 1359 Level - 1
+Item 1360 Level - 2
+Item 1361 Level - 1
+Item 1362 Level - 1
+Item 1363 Level - 1
+Item 1364 Level - 1
+Item 1365 Level - 1
+Item 1366 Level - 3
+Item 1367 Level - 1
+Item 1368 Level - 1
+Item 1369 Level - 2
+Item 1370 Level - 1
+Item 1371 Level - 1
+Item 1372 Level - 2
+Item 1373 Level - 1
+Item 1374 Level - 1
+Item 1375 Level - 1
+Item 1376 Level - 1
+Item 1377 Level - 0
+Item 1378 Level - 3
+Item 1379 Level - 3
+Item 1380 Level - 3
+Item 1381 Level - 2
+Item 1382 Level - 2
+Item 1383 Level - 2
+Item 1384 Level - 0
+Item 1385 Level - 1
+Item 1386 Level - 1
+Item 1387 Level - 1
+Item 1388 Level - 2
+Item 1389 Level - 2
+Item 1390 Level - 2
+Item 1391 Level - 2
+Item 1392 Level - 1
+Item 1393 Level - 1
+Item 1394 Level - 2
+Item 1395 Level - 2
+Item 1396 Level - 2
+Item 1397 Level - 2
+Item 1398 Level - 2
+Item 1399 Level - 2
+Item 1400 Level - 2
+Item 1401 Level - 2
+Item 1402 Level - 2
+Item 1403 Level - 2
+Item 1404 Level - 2
+Item 1405 Level - 2
+Item 1406 Level - 2
+Item 1407 Level - 2
+Item 1408 Level - 2
+Item 1409 Level - 2
+Item 1410 Level - 2
+Item 1411 Level - 2
+Item 1412 Level - 2
+Item 1413 Level - 2
+Item 1414 Level - 2
+Item 1415 Level - 2
+Item 1416 Level - 2
+Item 1417 Level - 2
+Item 1418 Level - 2
+Item 1419 Level - 2
+Item 1420 Level - 2
+Item 1421 Level - 2
+Item 1422 Level - 2
+Item 1423 Level - 2
+Item 1424 Level - 2
+Item 1425 Level - 2
+Item 1426 Level - 0
+Item 1427 Level - 0
+Item 1428 Level - 0
+Item 1429 Level - 1
+Item 1430 Level - 2
+Item 1431 Level - 1
+Item 1432 Level - 1
+Item 1433 Level - 1
+Item 1434 Level - 1
+Item 1435 Level - 2
+Item 1436 Level - 2
+Item 1437 Level - 1
+Item 1438 Level - 1
+Item 1439 Level - 0
+Item 1444 Level - 1
+Item 1445 Level - 2
+Item 1446 Level - 1
+Item 1447 Level - 0
+Item 1448 Level - 0
+Item 1449 Level - 0
+Item 1450 Level - 0
+Item 1451 Level - 0
+Item 1452 Level - 0
+Item 1453 Level - 0
+Item 1454 Level - 0
+Item 1455 Level - 0
+Item 1456 Level - 0
+Item 1457 Level - 0
+Item 1458 Level - 0
+Item 1460 Level - 3
+Item 1461 Level - 4
+Item 1462 Level - 4
+Item 1463 Level - 4
+Item 1464 Level - 0
+Item 1465 Level - 0
+Item 1466 Level - 1
+Item 1467 Level - 1
+Item 1468 Level - 1
+Item 1469 Level - 1
+Item 1470 Level - 2
+Item 1471 Level - 1
+Item 1472 Level - 2
+Item 1473 Level - 1
+Item 1474 Level - 2
+Item 1475 Level - 2
+Item 1476 Level - 3
+Item 1477 Level - 3
+Item 1478 Level - 3
+Item 1479 Level - 1
+Item 1480 Level - 3
+Item 1481 Level - 1
+Item 1482 Level - 2
+Item 1483 Level - 1
+Item 1484 Level - 1
+Item 1485 Level - 1
+Item 1486 Level - 0
+Item 1487 Level - 1
+Item 1488 Level - 0
+Item 1489 Level - 0
+Item 1490 Level - 0
+Item 1491 Level - 1
+Item 1492 Level - 0
+Item 1495 Level - 0
+Item 1496 Level - 0
+Item 1497 Level - 0
+Item 1498 Level - 0
+Item 1499 Level - 3
+Item 1500 Level - 3
+Item 1501 Level - 3
+Item 1502 Level - 3
+Item 1503 Level - 3
+Item 1504 Level - 4
+Item 1505 Level - 3
+Item 1506 Level - 3
+Item 1507 Level - 3
+Item 1508 Level - 3
+Item 1509 Level - 3
+Item 1510 Level - 3
+Item 1511 Level - 3
+Item 1512 Level - 0
+Item 1513 Level - 0
+Item 1514 Level - 0
+Item 1515 Level - 0
+Item 1516 Level - 0
+Item 1517 Level - 0
+Item 1518 Level - 0
+Item 1519 Level - 0
+Item 1520 Level - 0
+Item 1521 Level - 2
+Item 1522 Level - 2
+Item 1523 Level - 2
+Item 1524 Level - 2
+Item 1525 Level - 2
+Item 1526 Level - 2
+Item 1527 Level - 2
+Item 1529 Level - 0
+Item 1531 Level - 0
+Item 1532 Level - 0
+Item 1533 Level - 0
+Item 1534 Level - 0
+Item 1535 Level - 0
+Item 1536 Level - 0
+Item 1538 Level - 0
+Item 1539 Level - 0
+Item 1540 Level - 0
+Item 1541 Level - 0
+Item 1542 Level - 1
+Item 1543 Level - 2
+Item 1544 Level - 1
+Item 1545 Level - 1
+Item 1546 Level - 1
+Item 1547 Level - 2
+Item 1548 Level - 2
+Item 1549 Level - 1
+Item 1550 Level - 1
+Item 1551 Level - 1
+Item 1552 Level - 2
+Item 1553 Level - 2
+Item 1554 Level - 0
+Item 1555 Level - 0
+Item 1556 Level - 0
+Item 1557 Level - 2
+Item 1558 Level - 1
+Item 1559 Level - 1
+Item 1560 Level - 1
+Item 1561 Level - 0
+Item 1565 Level - 0
+Item 1566 Level - 0
+Item 1567 Level - 0
+Item 1568 Level - 2
+Item 1569 Level - 1
+Item 1570 Level - 0
+Item 1571 Level - 2
+Item 1572 Level - 2
+Item 1573 Level - 2
+Item 1574 Level - 0
+Item 1575 Level - 2
+Item 1576 Level - 1
+Item 1577 Level - 2
+Item 1578 Level - 2
+Item 1579 Level - 0
+Item 1580 Level - 2
+Item 1581 Level - 0
+Item 1582 Level - 2
+Item 1583 Level - 0
+Item 1584 Level - 2
+Item 1585 Level - 0
+Item 1586 Level - 0
+Item 1589 Level - 0
+Item 1590 Level - 0
+Item 1591 Level - 0
+Item 1592 Level - 0
+Item 1593 Level - 2
+Item 1594 Level - 2
+Item 1595 Level - 2
+Item 1596 Level - 1
+Item 1597 Level - 1
+Item 1598 Level - 1
+Item 1599 Level - 1
+Item 1600 Level - 1
+Item 1601 Level - 4
+Item 1602 Level - 3
+Item 1603 Level - 2
+Item 1604 Level - 1
+Item 1605 Level - 2
+Item 1606 Level - 2
+Item 1607 Level - 2
+Item 1608 Level - 1
+Item 1609 Level - 2
+Item 1610 Level - 2
+Item 1611 Level - 2
+Item 1612 Level - 2
+Item 1613 Level - 2
+Item 1614 Level - 2
+Item 1615 Level - 2
+Item 1616 Level - 2
+Item 1617 Level - 2
+Item 1618 Level - 3
+Item 1619 Level - 2
+Item 1620 Level - 2
+Item 1621 Level - 2
+Item 1622 Level - 2
+Item 1623 Level - 2
+Item 1624 Level - 2
+Item 1625 Level - 2
+Item 1626 Level - 2
+Item 1627 Level - 2
+Item 1628 Level - 2
+Item 1629 Level - 2
+Item 1630 Level - 3
+Item 1631 Level - 3
+Item 1632 Level - 2
+Item 1633 Level - 2
+Item 1634 Level - 2
+Item 1635 Level - 2
+Item 1636 Level - 2
+Item 1637 Level - 2
+Item 1638 Level - 2
+Item 1639 Level - 2
+Item 1640 Level - 2
+Item 1641 Level - 2
+Item 1642 Level - 2
+Item 1643 Level - 2
+Item 1644 Level - 2
+Item 1645 Level - 2
+Item 1646 Level - 2
+Item 1647 Level - 1
+Item 1648 Level - 1
+Item 1649 Level - 1
+Item 1650 Level - 1
+Item 1651 Level - 1
+Item 1652 Level - 1
+Item 1653 Level - 1
+Item 1654 Level - 1
+Item 1655 Level - 1
+Item 1656 Level - 1
+Item 1657 Level - 2
+Item 1658 Level - 2
+Item 1659 Level - 1
+Item 1660 Level - 1
+Item 1661 Level - 1
+Item 1662 Level - 1
+Item 1663 Level - 1
+Item 1664 Level - 1
+Item 1665 Level - 1
+Item 1666 Level - 3
+Item 1667 Level - 1
+Item 1668 Level - 1
+Item 1669 Level - 1
+Item 1670 Level - 1
+Item 1671 Level - 1
+Item 1672 Level - 1
+Item 1673 Level - 1
+Item 1674 Level - 1
+Item 1675 Level - 1
+Item 1676 Level - 1
+Item 1677 Level - 1
+Item 1678 Level - 1
+Item 1679 Level - 2
+Item 1680 Level - 3
+Item 1681 Level - 1
+Item 1682 Level - 1
+Item 1683 Level - 1
+Item 1684 Level - 1
+Item 1685 Level - 1
+Item 1686 Level - 1
+Item 1687 Level - 1
+Item 1688 Level - 1
+Item 1689 Level - 1
+Item 1690 Level - 1
+Item 1691 Level - 1
+Item 1692 Level - 1
+Item 1693 Level - 1
+Item 1694 Level - 1
+Item 1695 Level - 1
+Item 1696 Level - 1
+Item 1697 Level - 1
+Item 1698 Level - 1
+Item 1699 Level - 1
+Item 1700 Level - 1
+Item 1701 Level - 1
+Item 1702 Level - 1
+Item 1703 Level - 1
+Item 1704 Level - 1
+Item 1705 Level - 1
+Item 1706 Level - 1
+Item 1707 Level - 1
+Item 1708 Level - 1
+Item 1709 Level - 1
+Item 1710 Level - 1
+Item 1711 Level - 1
+Item 1712 Level - 1
+Item 1713 Level - 1
+Item 1714 Level - 1
+Item 1715 Level - 1
+Item 1716 Level - 1
+Item 1717 Level - 1
+Item 1718 Level - 1
+Item 1719 Level - 1
+Item 1720 Level - 1
+Item 1721 Level - 1
+Item 1722 Level - 1
+Item 1723 Level - 1
+Item 1724 Level - 1
+Item 1725 Level - 1
+Item 1726 Level - 1
+Item 1727 Level - 1
+Item 1728 Level - 1
+Item 1729 Level - 1
+Item 1730 Level - 1
+Item 1731 Level - 1
+Item 1732 Level - 1
+Item 1733 Level - 1
+Item 1734 Level - 1
+Item 1735 Level - 1
+Item 1736 Level - 1
+Item 1737 Level - 1
+Item 1738 Level - 1
+Item 1739 Level - 1
+Item 1740 Level - 1
+Item 1741 Level - 1
+Item 1742 Level - 1
+Item 1743 Level - 1
+Item 1744 Level - 1
+Item 1745 Level - 1
+Item 1746 Level - 1
+Item 1747 Level - 1
+Item 1748 Level - 1
+Item 1749 Level - 1
+Item 1750 Level - 1
+Item 1751 Level - 1
+Item 1752 Level - 1
+Item 1753 Level - 1
+Item 1754 Level - 1
+Item 1755 Level - 1
+Item 1756 Level - 1
+Item 1757 Level - 1
+Item 1758 Level - 1
+Item 1759 Level - 1
+Item 1760 Level - 1
+Item 1761 Level - 1
+Item 1762 Level - 1
+Item 1763 Level - 1
+Item 1764 Level - 1
+Item 1765 Level - 1
+Item 1766 Level - 1
+Item 1767 Level - 1
+Item 1768 Level - 1
+Item 1769 Level - 1
+Item 1770 Level - 1
+Item 1771 Level - 1
+Item 1772 Level - 1
+Item 1773 Level - 1
+Item 1774 Level - 1
+Item 1775 Level - 1
+Item 1776 Level - 1
+Item 1777 Level - 1
+Item 1778 Level - 1
+Item 1779 Level - 1
+Item 1780 Level - 1
+Item 1781 Level - 1
+Item 1782 Level - 1
+Item 1783 Level - 1
+Item 1784 Level - 1
+Item 1785 Level - 1
+Item 1786 Level - 1
+Item 1787 Level - 1
+Item 1788 Level - 1
+Item 1789 Level - 1
+Item 1790 Level - 1
+Item 1791 Level - 1
+Item 1792 Level - 1
+Item 1793 Level - 1
+Item 1794 Level - 1
+Item 1795 Level - 1
+Item 1796 Level - 1
+Item 1797 Level - 1
+Item 1798 Level - 1
+Item 1799 Level - 1
+Item 1800 Level - 1
+Item 1801 Level - 1
+Item 1802 Level - 1
+Item 1803 Level - 1
+Item 1804 Level - 1
+Item 1805 Level - 1
+Item 1806 Level - 1
+Item 1807 Level - 1
+Item 1808 Level - 1
+Item 1809 Level - 1
+Item 1810 Level - 1
+Item 1811 Level - 1
+Item 1812 Level - 0
+Item 1813 Level - 1
+Item 1814 Level - 2
+Item 1815 Level - 2
+Item 1816 Level - 2
+Item 1817 Level - 2
+Item 1818 Level - 0
+Item 1819 Level - 2
+Item 1820 Level - 0
+Item 1821 Level - 1
+Item 1822 Level - 3
+Item 1823 Level - 1
+Item 1824 Level - 4
+Item 1825 Level - 1
+Item 1826 Level - 1
+Item 1827 Level - 5
+Item 1828 Level - 4
+Item 1829 Level - 4
+Item 1830 Level - 5
+Item 1831 Level - 0
+Item 1832 Level - 2
+Item 1833 Level - 1
+Item 1834 Level - 1
+Item 1835 Level - 4
+Item 1836 Level - 4
+Item 1837 Level - 4
+Item 1838 Level - 1
+Item 1839 Level - 1
+Item 1840 Level - 4
+Item 1841 Level - 1
+Item 1842 Level - 0
+Item 1843 Level - 4
+Item 1844 Level - 4
+Item 1845 Level - 3
+Item 1846 Level - 0
+Item 1847 Level - 3
+Item 1848 Level - 3
+Item 1849 Level - 0
+Item 1850 Level - 1
+Item 1851 Level - 1
+Item 1852 Level - 1
+Item 1853 Level - 1
+Item 1854 Level - 1
+Item 1855 Level - 1
+Item 1856 Level - 1
+Item 1857 Level - 3
+Item 1858 Level - 3
+Item 1859 Level - 3
+Item 1860 Level - 2
+Item 1861 Level - 3
+Item 1862 Level - 2
+Item 1863 Level - 3
+Item 1864 Level - 4
+Item 1865 Level - 1
+Item 1866 Level - 1
+Item 1867 Level - 1
+Item 1868 Level - 1
+Item 1869 Level - 1
+Item 1870 Level - 1
+Item 1871 Level - 1
+Item 1872 Level - 1
+Item 1873 Level - 1
+Item 1874 Level - 1
+Item 1875 Level - 1
+Item 1876 Level - 1
+Item 1877 Level - 1
+Item 1878 Level - 1
+Item 1879 Level - 1
+Item 1880 Level - 1
+Item 1881 Level - 1
+Item 1882 Level - 1
+Item 1883 Level - 1
+Item 1884 Level - 1
+Item 1885 Level - 0
+Item 1886 Level - 1
+Item 1887 Level - 1
+Item 1888 Level - 1
+Item 1889 Level - 2
+Item 1890 Level - 2
+Item 1891 Level - 0
+Item 1892 Level - 3
+Item 1893 Level - 3
+Item 1894 Level - 3
+Item 1895 Level - 3
+Item 1896 Level - 1
+Item 1897 Level - 3
+Item 1898 Level - 3
+Item 1899 Level - 1
+Item 1900 Level - 1
+Item 1901 Level - 1
+Item 1902 Level - 2
+Item 1903 Level - 1
+Item 1904 Level - 1
+Item 1905 Level - 1
+Item 1906 Level - 1
+Item 1907 Level - 1
+Item 1908 Level - 0
+Item 1909 Level - 1
+Item 1910 Level - 1
+Item 1911 Level - 2
+Item 1912 Level - 1
+Item 1913 Level - 1
+Item 1914 Level - 1
+Item 1915 Level - 1
+Item 1916 Level - 1
+Item 1917 Level - 1
+Item 1918 Level - 1
+Item 1919 Level - 1
+Item 1920 Level - 1
+Item 1921 Level - 1
+Item 1922 Level - 1
+Item 1923 Level - 1
+Item 1924 Level - 2
+Item 1925 Level - 2
+Item 1926 Level - 3
+Item 1927 Level - 2
+Item 1928 Level - 1
+Item 1929 Level - 1
+Item 1930 Level - 1
+Item 1931 Level - 1
+Item 1932 Level - 1
+Item 1933 Level - 1
+Item 1934 Level - 2
+Item 1935 Level - 2
+Item 1936 Level - 1
+Item 1937 Level - 1
+Item 1938 Level - 3
+Item 1939 Level - 3
+Item 1940 Level - 3
+Item 1941 Level - 3
+Item 1942 Level - 3
+Item 1943 Level - 3
+Item 1944 Level - 3
+Item 1945 Level - 3
+Item 1946 Level - 1
+Item 1947 Level - 1
+Item 1948 Level - 2
+Item 1949 Level - 1
+Item 1950 Level - 1
+Item 1951 Level - 1
+Item 1952 Level - 1
+Item 1953 Level - 1
+Item 1954 Level - 1
+Item 1955 Level - 1
+Item 1956 Level - 2
+Item 1957 Level - 1
+Item 1958 Level - 1
+Item 1959 Level - 1
+Item 1960 Level - 1
+Item 1961 Level - 1
+Item 1962 Level - 1
+Item 1963 Level - 1
+Item 1964 Level - 1
+Item 1965 Level - 1
+Item 1966 Level - 1
+Item 1967 Level - 1
+Item 1968 Level - 1
+Item 1969 Level - 1
+Item 1970 Level - 1
+Item 1971 Level - 1
+Item 1972 Level - 1
+Item 1973 Level - 1
+Item 1974 Level - 1
+Item 1975 Level - 1
+Item 1976 Level - 2
+Item 1977 Level - 1
+Item 1978 Level - 1
+Item 1979 Level - 1
+Item 1980 Level - 1
+Item 1981 Level - 1
+Item 1982 Level - 1
+Item 1983 Level - 1
+Item 1984 Level - 1
+Item 1985 Level - 1
+Item 1986 Level - 1
+Item 1987 Level - 1
+Item 1988 Level - 1
+Item 1989 Level - 1
+Item 1990 Level - 1
+Item 1991 Level - 1
+Item 1992 Level - 1
+Item 1993 Level - 2
+Item 1994 Level - 2
+Item 1995 Level - 1
+Item 1996 Level - 1
+Item 1997 Level - 1
+Item 1998 Level - 1
+Item 1999 Level - 1
+Item 2000 Level - 1
+Item 2001 Level - 2
+Item 2002 Level - 2
+Item 2003 Level - 1
+Item 2004 Level - 2
+Item 2005 Level - 2
+Item 2006 Level - 1
+Item 2007 Level - 2
+Item 2008 Level - 1
+Item 2009 Level - 2
+Item 2010 Level - 2
+Item 2011 Level - 2
+Item 2012 Level - 2
+Item 2013 Level - 2
+Item 2014 Level - 2
+Item 2015 Level - 2
+Item 2016 Level - 2
+Item 2017 Level - 1
+Item 2018 Level - 2
+Item 2019 Level - 2
+Item 2020 Level - 1
+Item 2021 Level - 1
+Item 2022 Level - 2
+Item 2023 Level - 1
+Item 2024 Level - 1
+Item 2025 Level - 1
+Item 2026 Level - 1
+Item 2027 Level - 1
+Item 2028 Level - 2
+Item 2029 Level - 2
+Item 2030 Level - 2
+Item 2031 Level - 1
+Item 2032 Level - 2
+Item 2033 Level - 2
+Item 2034 Level - 1
+Item 2035 Level - 1
+Item 2036 Level - 3
+Item 2037 Level - 3
+Item 2038 Level - 1
+Item 2039 Level - 2
+Item 2040 Level - 1
+Item 2041 Level - 1
+Item 2042 Level - 1
+Item 2043 Level - 2
+Item 2044 Level - 3
+Item 2045 Level - 3
+Item 2046 Level - 4
+Item 2047 Level - 3
+Item 2048 Level - 4
+Item 2049 Level - 1
+Item 2050 Level - 1
+Item 2051 Level - 1
+Item 2052 Level - 1
+Item 2053 Level - 1
+Item 2054 Level - 1
+Item 2055 Level - 1
+Item 2056 Level - 2
+Item 2057 Level - 1
+Item 2058 Level - 1
+Item 2059 Level - 1
+Item 2060 Level - 1
+Item 2061 Level - 3
+Item 2062 Level - 3
+Item 2063 Level - 3
+Item 2064 Level - 3
+Item 2065 Level - 3
+Item 2066 Level - 3
+Item 2067 Level - 3
+Item 2068 Level - 1
+Item 2069 Level - 1
+Item 2070 Level - 2
+Item 2071 Level - 2
+Item 2072 Level - 1
+Item 2073 Level - 1
+Item 2074 Level - 2
+Item 2075 Level - 1
+Item 2076 Level - 2
+Item 2077 Level - 1
+Item 2078 Level - 1
+Item 2079 Level - 1
+Item 2080 Level - 2
+Item 2081 Level - 2
+Item 2082 Level - 1
+Item 2083 Level - 0
+Item 2084 Level - 0
+Item 2085 Level - 0
+Item 2086 Level - 0
+Item 2087 Level - 0
+Item 2088 Level - 0
+Item 2089 Level - 0
+Item 2090 Level - 0
+Item 2091 Level - 0
+Item 2092 Level - 0
+Item 2093 Level - 0
+Item 2094 Level - 0
+Item 2095 Level - 0
+Item 2096 Level - 0
+Item 2097 Level - 0
+Item 2098 Level - 0
+Item 2099 Level - 0
+Item 2100 Level - 0
+Item 2101 Level - 0
+Item 2102 Level - 0
+Item 2103 Level - 0
+Item 2104 Level - 0
+Item 2105 Level - 0
+Item 2106 Level - 0
+Item 2107 Level - 0
+Item 2108 Level - 0
+Item 2109 Level - 1
+Item 2110 Level - 1
+Item 2111 Level - 0
+Item 2112 Level - 0
+Item 2113 Level - 0
+Item 2114 Level - 0
+Item 2115 Level - 1
+Item 2116 Level - 1
+Item 2117 Level - 1
+Item 2118 Level - 0
+Item 2119 Level - 1
+Item 2120 Level - 0
+Item 2121 Level - 0
+Item 2122 Level - 0
+Item 2123 Level - 0
+Item 2124 Level - 0
+Item 2125 Level - 0
+Item 2126 Level - 0
+Item 2127 Level - 1
+Item 2128 Level - 0
+Item 2129 Level - 0
+Item 2130 Level - 0
+Item 2131 Level - 0
+Item 2132 Level - 0
+Item 2133 Level - 0
+Item 2134 Level - 0
+Item 2135 Level - 0
+Item 2136 Level - 0
+Item 2137 Level - 0
+Item 2138 Level - 0
+Item 2139 Level - 0
+Item 2140 Level - 0
+Item 2141 Level - 0
+Item 2142 Level - 0
+Item 2143 Level - 0
+Item 2144 Level - 0
+Item 2145 Level - 0
+Item 2146 Level - 0
+Item 2147 Level - 0
+Item 2149 Level - 1
+Item 2151 Level - 0
+Item 2152 Level - 0
+Item 2153 Level - 1
+Item 2154 Level - 0
+Item 2155 Level - 0
+Item 2156 Level - 0
+Item 2157 Level - 0
+Item 2158 Level - 0
+Item 2159 Level - 0
+Item 2160 Level - 0
+Item 2161 Level - 0
+Item 2162 Level - 0
+Item 2163 Level - 1
+Item 2164 Level - 0
+Item 2166 Level - 0
+Item 2167 Level - 0
+Item 2168 Level - 0
+Item 2170 Level - 0
+Item 2171 Level - 0
+Item 2172 Level - 0
+Item 2173 Level - 0
+Item 2174 Level - 0
+Item 2175 Level - 0
+Item 2176 Level - 0
+Item 2177 Level - 0
+Item 2178 Level - 0
+Item 2179 Level - 0
+Item 2180 Level - 0
+Item 2181 Level - 0
+Item 2183 Level - 0
+Item 2184 Level - 0
+Item 2185 Level - 0
+Item 2186 Level - 0
+Item 2187 Level - 0
+Item 2188 Level - 1
+Item 2189 Level - 0
+Item 2191 Level - 0
+Item 2192 Level - 0
+Item 2193 Level - 0
+Item 2194 Level - 1
+Item 2196 Level - 0
+Item 2197 Level - 0
+Item 2198 Level - 0
+Item 2199 Level - 0
+Item 2200 Level - 0
+Item 2201 Level - 0
+Item 2202 Level - 0
+Item 2203 Level - 0
+Item 2204 Level - 0
+Item 2205 Level - 0
+Item 2206 Level - 0
+Item 2207 Level - 0
+Item 2208 Level - 0
+Item 2209 Level - 0
+Item 2210 Level - 0
+Item 2211 Level - 0
+Item 2212 Level - 0
+Item 2213 Level - 0
+Item 2214 Level - 0
+Item 2215 Level - 0
+Item 2216 Level - 0
+Item 2217 Level - 0
+Item 2218 Level - 0
+Item 2219 Level - 0
+Item 2220 Level - 0
+Item 2221 Level - 0
+Item 2223 Level - 0
+Item 2224 Level - 0
+Item 2225 Level - 0
+Item 2226 Level - 0
+Item 2227 Level - 0
+Item 2228 Level - 0
+Item 2229 Level - 0
+Item 2230 Level - 0
+Item 2231 Level - 0
+Item 2232 Level - 2
+Item 2233 Level - 1
+Item 2235 Level - 0
+Item 2236 Level - 0
+Item 2237 Level - 1
+Item 2238 Level - 0
+Item 2239 Level - 0
+Item 2240 Level - 0
+Item 2241 Level - 0
+Item 2242 Level - 0
+Item 2243 Level - 0
+Item 2244 Level - 0
+Item 2245 Level - 0
+Item 2246 Level - 0
+Item 2247 Level - 0
+Item 2249 Level - 0
+Item 2250 Level - 0
+Item 2251 Level - 0
+Item 2252 Level - 0
+Item 2253 Level - 0
+Item 2254 Level - 0
+Item 2255 Level - 1
+Item 2256 Level - 0
+Item 2257 Level - 0
+Item 2258 Level - 0
+Item 2259 Level - 0
+Item 2260 Level - 0
+Item 2261 Level - 0
+Item 2262 Level - 1
+Item 2263 Level - 0
+Item 2265 Level - 0
+Item 2266 Level - 0
+Item 2267 Level - 0
+Item 2268 Level - 0
+Item 2269 Level - 0
+Item 2270 Level - 0
+Item 2271 Level - 0
+Item 2272 Level - 0
+Item 2273 Level - 0
+Item 2274 Level - 0
+Item 2275 Level - 0
+Item 2276 Level - 0
+Item 2277 Level - 0
+Item 2279 Level - 0
+Item 2280 Level - 0
+Item 2281 Level - 0
+Item 2282 Level - 0
+Item 2283 Level - 0
+Item 2284 Level - 0
+Item 2285 Level - 1
+Item 2286 Level - 0
+Item 2287 Level - 0
+Item 2288 Level - 0
+Item 2289 Level - 0
+Item 2290 Level - 0
+Item 2291 Level - 0
+Item 2292 Level - 0
+Item 2293 Level - 0
+Item 2294 Level - 0
+Item 2295 Level - 0
+Item 2296 Level - 0
+Item 2297 Level - 0
+Item 2298 Level - 0
+Item 2299 Level - 0
+Item 2300 Level - 0
+Item 2301 Level - 0
+Item 2302 Level - 0
+Item 2303 Level - 0
+Item 2304 Level - 0
+Item 2305 Level - 0
+Item 2306 Level - 0
+Item 2307 Level - 0
+Item 2308 Level - 0
+Item 2309 Level - 0
+Item 2310 Level - 0
+Item 2311 Level - 0
+Item 2312 Level - 0
+Item 2313 Level - 0
+Item 2314 Level - 0
+Item 2315 Level - 0
+Item 2316 Level - 0
+Item 2317 Level - 0
+Item 2318 Level - 0
+Item 2319 Level - 0
+Item 2320 Level - 0
+Item 2321 Level - 0
+Item 2322 Level - 0
+Item 2323 Level - 0
+Item 2324 Level - 0
+Item 2325 Level - 0
+Item 2326 Level - 0
+Item 2327 Level - 0
+Item 2328 Level - 0
+Item 2329 Level - 0
+Item 2330 Level - 0
+Item 2331 Level - 0
+Item 2332 Level - 0
+Item 2333 Level - 0
+Item 2334 Level - 1
+Item 2335 Level - 0
+Item 2336 Level - 0
+Item 2337 Level - 1
+Item 2338 Level - 0
+Item 2339 Level - 0
+Item 2340 Level - 0
+Item 2341 Level - 0
+Item 2342 Level - 0
+Item 2343 Level - 0
+Item 2344 Level - 0
+Item 2345 Level - 0
+Item 2346 Level - 0
+Item 2347 Level - 0
+Item 2348 Level - 0
+Item 2349 Level - 0
+Item 2350 Level - 0
+Item 2351 Level - 0
+Item 2352 Level - 0
+Item 2353 Level - 0
+Item 2354 Level - 0
+Item 2355 Level - 0
+Item 2356 Level - 0
+Item 2357 Level - 0
+Item 2358 Level - 0
+Item 2359 Level - 0
+Item 2360 Level - 0
+Item 2361 Level - 0
+Item 2362 Level - 0
+Item 2363 Level - 0
+Item 2364 Level - 0
+Item 2365 Level - 0
+Item 2366 Level - 0
+Item 2367 Level - 0
+Item 2368 Level - 0
+Item 2369 Level - 0
+Item 2370 Level - 0
+Item 2371 Level - 0
+Item 2372 Level - 0
+Item 2373 Level - 0
+Item 2374 Level - 0
+Item 2375 Level - 0
+Item 2376 Level - 1
+Item 2377 Level - 3
+Item 2378 Level - 3
+Item 2379 Level - 3
+Item 2380 Level - 3
+Item 2381 Level - 3
+Item 2382 Level - 3
+Item 2383 Level - 3
+Item 2384 Level - 1
+Item 2385 Level - 3
+Item 2386 Level - 3
+Item 2387 Level - 3
+Item 2388 Level - 3
+Item 2389 Level - 3
+Item 2390 Level - 3
+Item 2391 Level - 3
+Item 2392 Level - 0
+Item 2393 Level - 3
+Item 2394 Level - 3
+Item 2395 Level - 1
+Item 2396 Level - 3
+Item 2397 Level - 3
+Item 2398 Level - 0
+Item 2399 Level - 0
+Item 2400 Level - 1
+Item 2401 Level - 1
+Item 2402 Level - 1
+Item 2403 Level - 0
+Item 2404 Level - 2
+Item 2405 Level - 2
+Item 2406 Level - 2
+Item 2407 Level - 2
+Item 2408 Level - 2
+Item 2409 Level - 2
+Item 2410 Level - 2
+Item 2411 Level - 2
+Item 2412 Level - 2
+Item 2413 Level - 2
+Item 2414 Level - 2
+Item 2415 Level - 2
+Item 2416 Level - 3
+Item 2417 Level - 3
+Item 2418 Level - 3
+Item 2419 Level - 3
+Item 2420 Level - 3
+Item 2421 Level - 3
+Item 2422 Level - 3
+Item 2423 Level - 3
+Item 2424 Level - 3
+Item 2425 Level - 3
+Item 2426 Level - 3
+Item 2427 Level - 3
+Item 2428 Level - 4
+Item 2429 Level - 2
+Item 2430 Level - 2
+Item 2431 Level - 3
+Item 2432 Level - 3
+Item 2433 Level - 3
+Item 2434 Level - 3
+Item 2435 Level - 3
+Item 2436 Level - 3
+Item 2437 Level - 3
+Item 2438 Level - 2
+Item 2439 Level - 0
+Item 2440 Level - 3
+Item 2441 Level - 3
+Item 2442 Level - 0
+Item 2443 Level - 0
+Item 2444 Level - 0
+Item 2445 Level - 0
+Item 2446 Level - 0
+Item 2447 Level - 0
+Item 2448 Level - 0
+Item 2449 Level - 0
+Item 2450 Level - 0
+Item 2451 Level - 0
+Item 2452 Level - 0
+Item 2453 Level - 0
+Item 2454 Level - 0
+Item 2455 Level - 0
+Item 2456 Level - 0
+Item 2457 Level - 0
+Item 2458 Level - 0
+Item 2459 Level - 1
+Item 2460 Level - 2
+Item 2461 Level - 4
+Item 2462 Level - 0
+Item 2463 Level - 0
+Item 2464 Level - 0
+Item 2465 Level - 0
+Item 2466 Level - 0
+Item 2467 Level - 1
+Item 2468 Level - 1
+Item 2469 Level - 0
+Item 2470 Level - 0
+Item 2471 Level - 0
+Item 2472 Level - 0
+Item 2473 Level - 0
+Item 2474 Level - 0
+Item 2475 Level - 0
+Item 2476 Level - 1
+Item 2477 Level - 1
+Item 2478 Level - 0
+Item 2479 Level - 0
+Item 2480 Level - 0
+Item 2481 Level - 0
+Item 2482 Level - 0
+Item 2483 Level - 0
+Item 2484 Level - 0
+Item 2485 Level - 0
+Item 2486 Level - 0
+Item 2487 Level - 0
+Item 2488 Level - 0
+Item 2489 Level - 0
+Item 2490 Level - 0
+Item 2491 Level - 0
+Item 2492 Level - 0
+Item 2493 Level - 2
+Item 2494 Level - 4
+Item 2495 Level - 5
+Item 2496 Level - 2
+Item 2497 Level - 2
+Item 2498 Level - 2
+Item 2499 Level - 2
+Item 2500 Level - 1
+Item 2501 Level - 1
+Item 2502 Level - 1
+Item 2503 Level - 1
+Item 2504 Level - 1
+Item 2505 Level - 1
+Item 2506 Level - 1
+Item 2507 Level - 1
+Item 2508 Level - 1
+Item 2509 Level - 1
+Item 2510 Level - 1
+Item 2511 Level - 1
+Item 2512 Level - 1
+Item 2513 Level - 1
+Item 2514 Level - 1
+Item 2515 Level - 1
+Item 2516 Level - 1
+Item 2517 Level - 1
+Item 2518 Level - 1
+Item 2519 Level - 1
+Item 2520 Level - 1
+Item 2521 Level - 1
+Item 2522 Level - 1
+Item 2523 Level - 1
+Item 2524 Level - 1
+Item 2525 Level - 1
+Item 2526 Level - 1
+Item 2527 Level - 1
+Item 2528 Level - 1
+Item 2529 Level - 1
+Item 2530 Level - 1
+Item 2531 Level - 1
+Item 2532 Level - 1
+Item 2533 Level - 1
+Item 2534 Level - 1
+Item 2535 Level - 1
+Item 2536 Level - 1
+Item 2537 Level - 1
+Item 2538 Level - 1
+Item 2539 Level - 2
+Item 2540 Level - 1
+Item 2541 Level - 3
+Item 2542 Level - 3
+Item 2543 Level - 3
+Item 2544 Level - 3
+Item 2545 Level - 4
+Item 2546 Level - 3
+Item 2547 Level - 3
+Item 2548 Level - 4
+Item 2549 Level - 3
+Item 2550 Level - 3
+Item 2551 Level - 4
+Item 2552 Level - 4
+Item 2553 Level - 3
+Item 2554 Level - 4
+Item 2555 Level - 4
+Item 2556 Level - 4
+Item 2557 Level - 4
+Item 2558 Level - 3
+Item 2559 Level - 3
+Item 2560 Level - 4
+Item 2561 Level - 3
+Item 2562 Level - 4
+Item 2563 Level - 3
+Item 2564 Level - 3
+Item 2565 Level - 3
+Item 2566 Level - 4
+Item 2567 Level - 4
+Item 2568 Level - 4
+Item 2569 Level - 4
+Item 2570 Level - 4
+Item 2571 Level - 4
+Item 2572 Level - 4
+Item 2573 Level - 4
+Item 2574 Level - 4
+Item 2575 Level - 4
+Item 2576 Level - 4
+Item 2577 Level - 4
+Item 2578 Level - 4
+Item 2579 Level - 4
+Item 2580 Level - 4
+Item 2581 Level - 4
+Item 2582 Level - 4
+Item 2583 Level - 4
+Item 2584 Level - 4
+Item 2585 Level - 4
+Item 2586 Level - 4
+Item 2587 Level - 4
+Item 2588 Level - 4
+Item 2589 Level - 4
+Item 2590 Level - 4
+Item 2591 Level - 4
+Item 2592 Level - 4
+Item 2593 Level - 4
+Item 2594 Level - 4
+Item 2595 Level - 4
+Item 2596 Level - 4
+Item 2597 Level - 4
+Item 2598 Level - 4
+Item 2599 Level - 4
+Item 2600 Level - 4
+Item 2601 Level - 4
+Item 2602 Level - 4
+Item 2603 Level - 4
+Item 2604 Level - 4
+Item 2605 Level - 4
+Item 2606 Level - 4
+Item 2607 Level - 4
+Item 2608 Level - 4
+Item 2609 Level - 4
+Item 2610 Level - 4
+Item 2611 Level - 4
+Item 2612 Level - 4
+Item 2613 Level - 4
+Item 2614 Level - 4
+Item 2615 Level - 3
+Item 2616 Level - 4
+Item 2617 Level - 4
+Item 2618 Level - 4
+Item 2619 Level - 4
+Item 2620 Level - 3
+Item 2621 Level - 1
+Item 2622 Level - 2
+Item 2623 Level - 2
+Item 2624 Level - 0
+Item 2625 Level - 0
+Item 2626 Level - 0
+Item 2627 Level - 1
+Item 2628 Level - 1
+Item 2629 Level - 1
+Item 2630 Level - 1
+Item 2631 Level - 1
+Item 2632 Level - 1
+Item 2633 Level - 1
+Item 2634 Level - 1
+Item 2635 Level - 1
+Item 2636 Level - 1
+Item 2637 Level - 1
+Item 2638 Level - 1
+Item 2639 Level - 1
+Item 2640 Level - 1
+Item 2641 Level - 1
+Item 2642 Level - 1
+Item 2643 Level - 1
+Item 2644 Level - 1
+Item 2645 Level - 1
+Item 2646 Level - 1
+Item 2647 Level - 1
+Item 2648 Level - 1
+Item 2649 Level - 1
+Item 2650 Level - 1
+Item 2651 Level - 1
+Item 2652 Level - 1
+Item 2653 Level - 1
+Item 2654 Level - 1
+Item 2655 Level - 1
+Item 2656 Level - 1
+Item 2657 Level - 1
+Item 2658 Level - 1
+Item 2659 Level - 1
+Item 2660 Level - 1
+Item 2661 Level - 1
+Item 2662 Level - 1
+Item 2663 Level - 1
+Item 2664 Level - 1
+Item 2665 Level - 1
+Item 2666 Level - 1
+Item 2667 Level - 1
+Item 2668 Level - 1
+Item 2669 Level - 1
+Item 2670 Level - 1
+Item 2671 Level - 1
+Item 2672 Level - 1
+Item 2673 Level - 1
+Item 2674 Level - 1
+Item 2675 Level - 1
+Item 2676 Level - 1
+Item 2677 Level - 1
+Item 2678 Level - 1
+Item 2679 Level - 1
+Item 2680 Level - 1
+Item 2681 Level - 1
+Item 2682 Level - 1
+Item 2683 Level - 1
+Item 2684 Level - 1
+Item 2685 Level - 1
+Item 2686 Level - 1
+Item 2687 Level - 1
+Item 2688 Level - 1
+Item 2689 Level - 1
+Item 2690 Level - 1
+Item 2691 Level - 1
+Item 2692 Level - 1
+Item 2693 Level - 1
+Item 2694 Level - 1
+Item 2695 Level - 1
+Item 2696 Level - 1
+Item 2697 Level - 1
+Item 2698 Level - 2
+Item 2699 Level - 2
+Item 2700 Level - 1
+Item 2701 Level - 1
+Item 2702 Level - 1
+Item 2703 Level - 1
+Item 2704 Level - 1
+Item 2705 Level - 1
+Item 2706 Level - 1
+Item 2707 Level - 1
+Item 2708 Level - 1
+Item 2709 Level - 1
+Item 2710 Level - 1
+Item 2711 Level - 1
+Item 2712 Level - 1
+Item 2713 Level - 1
+Item 2714 Level - 1
+Item 2715 Level - 1
+Item 2716 Level - 2
+Item 2717 Level - 2
+Item 2718 Level - 2
+Item 2719 Level - 1
+Item 2720 Level - 2
+Item 2721 Level - 1
+Item 2722 Level - 1
+Item 2723 Level - 1
+Item 2724 Level - 1
+Item 2725 Level - 1
+Item 2726 Level - 1
+Item 2727 Level - 1
+Item 2728 Level - 1
+Item 2729 Level - 1
+Item 2730 Level - 1
+Item 2731 Level - 1
+Item 2732 Level - 1
+Item 2733 Level - 1
+Item 2734 Level - 1
+Item 2735 Level - 1
+Item 2736 Level - 1
+Item 2737 Level - 1
+Item 2738 Level - 1
+Item 2739 Level - 1
+Item 2740 Level - 1
+Item 2741 Level - 1
+Item 2742 Level - 1
+Item 2743 Level - 1
+Item 2744 Level - 1
+Item 2745 Level - 1
+Item 2746 Level - 1
+Item 2747 Level - 1
+Item 2748 Level - 1
+Item 2749 Level - 1
+Item 2750 Level - 1
+Item 2751 Level - 1
+Item 2752 Level - 1
+Item 2753 Level - 1
+Item 2754 Level - 1
+Item 2755 Level - 1
+Item 2756 Level - 1
+Item 2757 Level - 1
+Item 2758 Level - 1
+Item 2759 Level - 2
+Item 2760 Level - 2
+Item 2761 Level - 2
+Item 2762 Level - 1
+Item 2763 Level - 1
+Item 2764 Level - 1
+Item 2765 Level - 1
+Item 2766 Level - 1
+Item 2767 Level - 1
+Item 2768 Level - 1
+Item 2769 Level - 1
+Item 2770 Level - 1
+Item 2771 Level - 0
+Item 2772 Level - 1
+Item 2773 Level - 2
+Item 2774 Level - 2
+Item 2775 Level - 2
+Item 2776 Level - 1
+Item 2777 Level - 2
+Item 2778 Level - 2
+Item 2779 Level - 2
+Item 2780 Level - 1
+Item 2781 Level - 1
+Item 2782 Level - 2
+Item 2783 Level - 1
+Item 2784 Level - 2
+Item 2785 Level - 2
+Item 2786 Level - 1
+Item 2787 Level - 2
+Item 2788 Level - 2
+Item 2789 Level - 1
+Item 2790 Level - 2
+Item 2791 Level - 2
+Item 2792 Level - 2
+Item 2793 Level - 2
+Item 2794 Level - 2
+Item 2795 Level - 2
+Item 2796 Level - 2
+Item 2797 Level - 2
+Item 2798 Level - 2
+Item 2799 Level - 2
+Item 2800 Level - 2
+Item 2801 Level - 2
+Item 2802 Level - 2
+Item 2803 Level - 2
+Item 2804 Level - 2
+Item 2805 Level - 2
+Item 2806 Level - 2
+Item 2807 Level - 2
+Item 2808 Level - 2
+Item 2809 Level - 2
+Item 2810 Level - 2
+Item 2811 Level - 2
+Item 2812 Level - 1
+Item 2813 Level - 2
+Item 2814 Level - 1
+Item 2815 Level - 2
+Item 2816 Level - 2
+Item 2817 Level - 2
+Item 2818 Level - 2
+Item 2819 Level - 2
+Item 2821 Level - 1
+Item 2822 Level - 2
+Item 2823 Level - 2
+Item 2824 Level - 3
+Item 2825 Level - 1
+Item 2826 Level - 2
+Item 2827 Level - 0
+Item 2828 Level - 1
+Item 2829 Level - 1
+Item 2830 Level - 0
+Item 2831 Level - 1
+Item 2832 Level - 2
+Item 2833 Level - 2
+Item 2834 Level - 1
+Item 2835 Level - 2
+Item 2836 Level - 2
+Item 2837 Level - 2
+Item 2838 Level - 2
+Item 2839 Level - 2
+Item 2840 Level - 2
+Item 2841 Level - 1
+Item 2842 Level - 2
+Item 2843 Level - 1
+Item 2844 Level - 2
+Item 2845 Level - 2
+Item 2846 Level - 2
+Item 2847 Level - 2
+Item 2848 Level - 2
+Item 2849 Level - 2
+Item 2850 Level - 2
+Item 2851 Level - 2
+Item 2852 Level - 2
+Item 2853 Level - 2
+Item 2854 Level - 2
+Item 2855 Level - 1
+Item 2856 Level - 2
+Item 2857 Level - 1
+Item 2858 Level - 2
+Item 2859 Level - 1
+Item 2860 Level - 2
+Item 2861 Level - 2
+Item 2862 Level - 2
+Item 2863 Level - 1
+Item 2864 Level - 1
+Item 2865 Level - 2
+Item 2866 Level - 1
+Item 2867 Level - 1
+Item 2868 Level - 2
+Item 2869 Level - 2
+Item 2870 Level - 2
+Item 2871 Level - 2
+Item 2872 Level - 2
+Item 2873 Level - 1
+Item 2874 Level - 1
+Item 2875 Level - 2
+Item 2876 Level - 2
+Item 2877 Level - 1
+Item 2878 Level - 2
+Item 2879 Level - 2
+Item 2880 Level - 2
+Item 2881 Level - 2
+Item 2882 Level - 2
+Item 2883 Level - 2
+Item 2884 Level - 1
+Item 2885 Level - 2
+Item 2886 Level - 2
+Item 2887 Level - 2
+Item 2888 Level - 2
+Item 2889 Level - 1
+Item 2890 Level - 2
+Item 2891 Level - 2
+Item 2892 Level - 2
+Item 2893 Level - 1
+Item 2895 Level - 2
+Item 2896 Level - 1
+Item 2897 Level - 1
+Item 2898 Level - 2
+Item 2899 Level - 2
+Item 2900 Level - 2
+Item 2901 Level - 2
+Item 2902 Level - 2
+Item 2903 Level - 2
+Item 2904 Level - 1
+Item 2905 Level - 2
+Item 2906 Level - 2
+Item 2907 Level - 1
+Item 2908 Level - 2
+Item 2909 Level - 1
+Item 2910 Level - 2
+Item 2911 Level - 1
+Item 2912 Level - 2
+Item 2913 Level - 1
+Item 2914 Level - 2
+Item 2915 Level - 1
+Item 2916 Level - 1
+Item 2917 Level - 2
+Item 2918 Level - 2
+Item 2919 Level - 1
+Item 2920 Level - 2
+Item 2921 Level - 2
+Item 2922 Level - 1
+Item 2923 Level - 2
+Item 2924 Level - 2
+Item 2925 Level - 2
+Item 2926 Level - 2
+Item 2927 Level - 2
+Item 2928 Level - 2
+Item 2929 Level - 2
+Item 2930 Level - 2
+Item 2931 Level - 2
+Item 2932 Level - 1
+Item 2933 Level - 2
+Item 2934 Level - 1
+Item 2935 Level - 2
+Item 2936 Level - 1
+Item 2937 Level - 2
+Item 2938 Level - 1
+Item 2939 Level - 1
+Item 2940 Level - 2
+Item 2941 Level - 2
+Item 2942 Level - 2
+Item 2943 Level - 2
+Item 2944 Level - 2
+Item 2945 Level - 1
+Item 2946 Level - 2
+Item 2947 Level - 1
+Item 2948 Level - 2
+Item 2949 Level - 1
+Item 2950 Level - 1
+Item 2951 Level - 1
+Item 2952 Level - 1
+Item 2953 Level - 1
+Item 2954 Level - 2
+Item 2955 Level - 1
+Item 2956 Level - 2
+Item 2957 Level - 0
+Item 2958 Level - 0
+Item 2959 Level - 0
+Item 2960 Level - 0
+Item 2961 Level - 0
+Item 2962 Level - 0
+Item 2963 Level - 4
+Item 2964 Level - 4
+Item 2965 Level - 4
+Item 2966 Level - 4
+Item 2967 Level - 4
+Item 2968 Level - 4
+Item 2969 Level - 4
+Item 2970 Level - 4
+Item 2971 Level - 4
+Item 2972 Level - 4
+Item 2973 Level - 4
+Item 2974 Level - 4
+Item 2975 Level - 4
+Item 2976 Level - 4
+Item 2977 Level - 3
+Item 2978 Level - 3
+Item 2979 Level - 2
+Item 2980 Level - 3
+Item 2981 Level - 3
+Item 2982 Level - 1
+Item 2983 Level - 4
+Item 2984 Level - 3
+Item 2985 Level - 0
+Item 2986 Level - 3
+Item 2987 Level - 3
+Item 3014 Level - 4
+Item 3015 Level - 3
+Item 3016 Level - 4
+Item 3017 Level - 3
+Item 3018 Level - 4
+Item 3019 Level - 3
+Item 3020 Level - 4
+Item 3021 Level - 3
+Item 3022 Level - 4
+Item 3023 Level - 3
+Item 3024 Level - 4
+Item 3025 Level - 3
+Item 3026 Level - 4
+Item 3027 Level - 3
+Item 3028 Level - 0
+Item 3029 Level - 0
+Item 3030 Level - 1
+Item 3031 Level - 0
+Item 3032 Level - 0
+Item 3033 Level - 0
+Item 3034 Level - 0
+Item 3035 Level - 0
+Item 3036 Level - 0
+Item 3037 Level - 0
+Item 3039 Level - 0
+Item 3040 Level - 0
+Item 3041 Level - 0
+Item 3042 Level - 3
+Item 3043 Level - 3
+Item 3044 Level - 1
+Item 3045 Level - 1
+Item 3046 Level - 1
+Item 3047 Level - 1
+Item 3048 Level - 0
+Item 3049 Level - 0
+Item 3050 Level - 0
+Item 3051 Level - 0
+Item 3052 Level - 0
+Item 3053 Level - 0
+Item 3054 Level - 0
+Item 3055 Level - 1
+Item 3056 Level - 2
+Item 3057 Level - 0
+Item 3058 Level - 0
+Item 3059 Level - 0
+Item 3060 Level - 0
+Item 3061 Level - 0
+Item 3062 Level - 0
+Item 3063 Level - 0
+Item 3064 Level - 0
+Item 3065 Level - 0
+Item 3066 Level - 0
+Item 3067 Level - 0
+Item 3068 Level - 0
+Item 3069 Level - 0
+Item 3070 Level - 0
+Item 3071 Level - 0
+Item 3072 Level - 0
+Item 3073 Level - 0
+Item 3074 Level - 0
+Item 3075 Level - 0
+Item 3076 Level - 0
+Item 3077 Level - 0
+Item 3078 Level - 0
+Item 3079 Level - 0
+Item 3080 Level - 0
+Item 3081 Level - 0
+Item 3082 Level - 0
+Item 3083 Level - 0
+Item 3084 Level - 0
+Item 3085 Level - 0
+Item 3086 Level - 0
+Item 3087 Level - 0
+Item 3088 Level - 4
+Item 3089 Level - 4
+Item 3090 Level - 4
+Item 3091 Level - 0
+Item 3092 Level - 0
+Item 3093 Level - 0
+Item 3094 Level - 0
+Item 3096 Level - 0
+Item 3097 Level - 0
+Item 3098 Level - 0
+Item 3099 Level - 0
+Item 3100 Level - 1
+Item 3101 Level - 0
+Item 3102 Level - 0
+Item 3103 Level - 0
+Item 3104 Level - 0
+Item 3105 Level - 0
+Item 3106 Level - 0
+Item 3107 Level - 0
+Item 3108 Level - 0
+Item 3109 Level - 0
+Item 3110 Level - 0
+Item 3111 Level - 0
+Item 3112 Level - 0
+Item 3113 Level - 0
+Item 3114 Level - 0
+Item 3115 Level - 0
+Item 3116 Level - 0
+Item 3117 Level - 0
+Item 3118 Level - 0
+Item 3119 Level - 0
+Item 3120 Level - 0
+Item 3121 Level - 0
+Item 3122 Level - 0
+Item 3123 Level - 0
+Item 3124 Level - 0
+Item 3125 Level - 0
+Item 3126 Level - 0
+Item 3127 Level - 0
+Item 3128 Level - 0
+Item 3129 Level - 0
+Item 3130 Level - 0
+Item 3131 Level - 0
+Item 3132 Level - 0
+Item 3133 Level - 0
+Item 3134 Level - 0
+Item 3135 Level - 0
+Item 3136 Level - 0
+Item 3137 Level - 0
+Item 3138 Level - 0
+Item 3139 Level - 0
+Item 3140 Level - 0
+Item 3141 Level - 0
+Item 3142 Level - 1
+Item 3143 Level - 0
+Item 3144 Level - 0
+Item 3145 Level - 0
+Item 3146 Level - 0
+Item 3147 Level - 0
+Item 3148 Level - 0
+Item 3149 Level - 0
+Item 3150 Level - 0
+Item 3151 Level - 0
+Item 3152 Level - 0
+Item 3153 Level - 0
+Item 3154 Level - 0
+Item 3155 Level - 0
+Item 3156 Level - 0
+Item 3157 Level - 0
+Item 3158 Level - 0
+Item 3159 Level - 0
+Item 3160 Level - 0
+Item 3161 Level - 0
+Item 3162 Level - 0
+Item 3163 Level - 0
+Item 3164 Level - 0
+Item 3165 Level - 0
+Item 3166 Level - 0
+Item 3167 Level - 0
+Item 3168 Level - 0
+Item 3169 Level - 0
+Item 3170 Level - 0
+Item 3171 Level - 0
+Item 3172 Level - 0
+Item 3173 Level - 0
+Item 3174 Level - 0
+Item 3175 Level - 0
+Item 3176 Level - 0
+Item 3177 Level - 0
+Item 3178 Level - 0
+Item 3179 Level - 0
+Item 3180 Level - 0
+Item 3181 Level - 0
+Item 3182 Level - 0
+Item 3183 Level - 0
+Item 3184 Level - 0
+Item 3185 Level - 0
+Item 3186 Level - 0
+Item 3187 Level - 0
+Item 3188 Level - 0
+Item 3189 Level - 0
+Item 3190 Level - 0
+Item 3191 Level - 0
+Item 3192 Level - 0
+Item 3193 Level - 0
+Item 3194 Level - 0
+Item 3195 Level - 0
+Item 3196 Level - 0
+Item 3197 Level - 0
+Item 3198 Level - 0
+Item 3199 Level - 0
+Item 3200 Level - 0
+Item 3201 Level - 3
+Item 3202 Level - 4
+Item 3203 Level - 1
+Item 3204 Level - 1
+Item 3205 Level - 1
+Item 3206 Level - 1
+Item 3207 Level - 1
+Item 3208 Level - 0
+Item 3209 Level - 0
+Item 3210 Level - 0
+Item 3211 Level - 0
+Item 3212 Level - 0
+Item 3213 Level - 0
+Item 3214 Level - 0
+Item 3215 Level - 0
+Item 3216 Level - 0
+Item 3217 Level - 0
+Item 3218 Level - 0
+Item 3219 Level - 0
+Item 3220 Level - 0
+Item 3221 Level - 1
+Item 3222 Level - 0
+Item 3223 Level - 0
+Item 3224 Level - 0
+Item 3225 Level - 0
+Item 3226 Level - 0
+Item 3227 Level - 0
+Item 3228 Level - 0
+Item 3229 Level - 2
+Item 3230 Level - 4
+Item 3231 Level - 2
+Item 3232 Level - 0
+Item 3233 Level - 0
+Item 3234 Level - 0
+Item 3235 Level - 0
+Item 3236 Level - 0
+Item 3237 Level - 0
+Item 3238 Level - 0
+Item 3239 Level - 0
+Item 3240 Level - 0
+Item 3241 Level - 0
+Item 3242 Level - 0
+Item 3243 Level - 0
+Item 3244 Level - 0
+Item 3245 Level - 0
+Item 3246 Level - 0
+Item 3247 Level - 0
+Item 3248 Level - 0
+Item 3249 Level - 0
+Item 3250 Level - 0
+Item 3251 Level - 0
+Item 3252 Level - 0
+Item 3253 Level - 0
+Item 3254 Level - 0
+Item 3255 Level - 0
+Item 3256 Level - 0
+Item 3257 Level - 0
+Item 3258 Level - 0
+Item 3259 Level - 0
+Item 3260 Level - 0
+Item 3261 Level - 1
+Item 3262 Level - 1
+Item 3263 Level - 4
+Item 3264 Level - 3
+Item 3265 Level - 0
+Item 3266 Level - 0
+Item 3267 Level - 0
+Item 3268 Level - 0
+Item 3269 Level - 0
+Item 3270 Level - 0
+Item 3271 Level - 0
+Item 3272 Level - 0
+Item 3273 Level - 0
+Item 3274 Level - 0
+Item 3275 Level - 0
+Item 3276 Level - 0
+Item 3277 Level - 0
+Item 3278 Level - 0
+Item 3279 Level - 0
+Item 3280 Level - 0
+Item 3281 Level - 0
+Item 3283 Level - 1
+Item 3284 Level - 1
+Item 3285 Level - 1
+Item 3286 Level - 1
+Item 3287 Level - 4
+Item 3290 Level - 1
+Item 3291 Level - 0
+Item 3295 Level - 1
+Item 3296 Level - 2
+Item 3297 Level - 1
+Item 3299 Level - 0
+Item 3300 Level - 0
+Item 3301 Level - 0
+Item 3302 Level - 0
+Item 3304 Level - 2
+Item 3305 Level - 1
+Item 3306 Level - 2
+Item 3307 Level - 2
+Item 3308 Level - 2
+Item 3309 Level - 4
+Item 3310 Level - 2
+Item 3311 Level - 0
+Item 3312 Level - 2
+Item 3313 Level - 2
+Item 3314 Level - 2
+Item 3315 Level - 1
+Item 3316 Level - 2
+Item 3320 Level - 0
+Item 3321 Level - 2
+Item 3322 Level - 1
+Item 3324 Level - 3
+Item 3325 Level - 4
+Item 3326 Level - 3
+Item 3327 Level - 4
+Item 3328 Level - 4
+Item 3329 Level - 4
+Item 3330 Level - 3
+Item 3331 Level - 3
+Item 3332 Level - 3
+Item 3333 Level - 3
+Item 3334 Level - 3
+Item 3335 Level - 4
+Item 3336 Level - 4
+Item 3337 Level - 4
+Item 3338 Level - 4
+Item 3339 Level - 4
+Item 3340 Level - 4
+Item 3341 Level - 4
+Item 3342 Level - 4
+Item 3343 Level - 4
+Item 3344 Level - 1
+Item 3345 Level - 1
+Item 3346 Level - 1
+Item 3347 Level - 1
+Item 3348 Level - 1
+Item 3349 Level - 1
+Item 3350 Level - 1
+Item 3351 Level - 0
+Item 3352 Level - 0
+Item 3354 Level - 1
+Item 3356 Level - 1
+Item 3358 Level - 1
+Item 3359 Level - 0
+Item 3360 Level - 1
+Item 3361 Level - 0
+Item 3362 Level - 1
+Item 3363 Level - 1
+Item 3365 Level - 1
+Item 3367 Level - 0
+Item 3368 Level - 0
+Item 3369 Level - 1
+Item 3370 Level - 1
+Item 3371 Level - 1
+Item 3372 Level - 2
+Item 3373 Level - 2
+Item 3374 Level - 2
+Item 3375 Level - 2
+Item 3376 Level - 2
+Item 3377 Level - 2
+Item 3378 Level - 2
+Item 3379 Level - 2
+Item 3380 Level - 1
+Item 3381 Level - 2
+Item 3383 Level - 2
+Item 3384 Level - 3
+Item 3386 Level - 0
+Item 3388 Level - 2
+Item 3389 Level - 0
+Item 3390 Level - 3
+Item 3391 Level - 1
+Item 3392 Level - 0
+Item 3393 Level - 0
+Item 3394 Level - 0
+Item 3395 Level - 0
+Item 3396 Level - 1
+Item 3397 Level - 1
+Item 3398 Level - 1
+Item 3399 Level - 1
+Item 3400 Level - 2
+Item 3401 Level - 2
+Item 3402 Level - 2
+Item 3403 Level - 2
+Item 3404 Level - 0
+Item 3405 Level - 1
+Item 3406 Level - 1
+Item 3407 Level - 1
+Item 3408 Level - 0
+Item 3409 Level - 0
+Item 3410 Level - 0
+Item 3411 Level - 0
+Item 3412 Level - 0
+Item 3413 Level - 0
+Item 3414 Level - 1
+Item 3415 Level - 1
+Item 3416 Level - 1
+Item 3417 Level - 1
+Item 3418 Level - 1
+Item 3419 Level - 1
+Item 3420 Level - 1
+Item 3421 Level - 0
+Item 3424 Level - 0
+Item 3426 Level - 0
+Item 3427 Level - 2
+Item 3428 Level - 2
+Item 3429 Level - 2
+Item 3430 Level - 2
+Item 3431 Level - 2
+Item 3432 Level - 2
+Item 3434 Level - 1
+
+============================================================================== 
+=== Product Rolled Up Costs   Concise Report? True                      === 
+============================================================================== 
+Product: 1000
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1001
+   TOTAL COMPONENT COST: 395.8381
+
+Product: 1002
+   TOTAL COMPONENT COST: 350.0861
+
+Product: 1003
+   TOTAL COMPONENT COST: 22.876
+
+Product: 1004
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1005
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1006
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1009
+   TOTAL COMPONENT COST: 2.9842
+
+Product: 1010
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1011
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1012
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1013
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1014
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1015
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1016
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1017
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1018
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1019
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1020
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1021
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1022
+   TOTAL COMPONENT COST: 17.3405
+
+Product: 1023
+   TOTAL COMPONENT COST: 20.7957
+
+Product: 1024
+   TOTAL COMPONENT COST: 25.9947
+
+Product: 1025
+   TOTAL COMPONENT COST: 29.4606
+
+Product: 1026
+   TOTAL COMPONENT COST: 34.6562
+
+Product: 1027
+   TOTAL COMPONENT COST: 36.8205
+
+Product: 1028
+   TOTAL COMPONENT COST: 38.5962
+
+Product: 1029
+   TOTAL COMPONENT COST: 33.7075
+
+Product: 1030
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1031
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1032
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1033
+   TOTAL COMPONENT COST: 12.9348
+
+Product: 1034
+   TOTAL COMPONENT COST: 11.0556
+
+Product: 1035
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1036
+   TOTAL COMPONENT COST: 3079.5798
+
+Product: 1037
+   TOTAL COMPONENT COST: 605.4712
+
+Product: 1038
+   TOTAL COMPONENT COST: 6372.63
+
+Product: 1039
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1184
+   TOTAL COMPONENT COST: 5.32
+
+Product: 1185
+   TOTAL COMPONENT COST: 0.9202
+
+Product: 1186
+   TOTAL COMPONENT COST: 0.9431
+
+Product: 1187
+   TOTAL COMPONENT COST: 26.6036
+
+Product: 1188
+   TOTAL COMPONENT COST: 38.7595
+
+Product: 1189
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1190
+   TOTAL COMPONENT COST: 1.698
+
+Product: 1191
+   TOTAL COMPONENT COST: 1.676
+
+Product: 1192
+   TOTAL COMPONENT COST: 0.4478
+
+Product: 1193
+   TOTAL COMPONENT COST: 1.599
+
+Product: 1194
+   TOTAL COMPONENT COST: 1.588
+
+Product: 1195
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1196
+   TOTAL COMPONENT COST: 41.765
+
+Product: 1197
+   TOTAL COMPONENT COST: 59.095
+
+Product: 1198
+   TOTAL COMPONENT COST: 72.525
+
+Product: 1199
+   TOTAL COMPONENT COST: 37.79
+
+Product: 1200
+   TOTAL COMPONENT COST: 48.54
+
+Product: 1201
+   TOTAL COMPONENT COST: 90.62
+
+Product: 1202
+   TOTAL COMPONENT COST: 4.2475
+
+Product: 1203
+   TOTAL COMPONENT COST: 7.0
+
+Product: 1204
+   TOTAL COMPONENT COST: 8.25
+
+Product: 1205
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1206
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1207
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1208
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1209
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1210
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1211
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1212
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1213
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1214
+   TOTAL COMPONENT COST: 11.3788
+
+Product: 1215
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1216
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1217
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1218
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1219
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1220
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1221
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1222
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1223
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1224
+   TOTAL COMPONENT COST: 15.3752
+
+Product: 1225
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1226
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1228
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1229
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1230
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1231
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1233
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1234
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1235
+   TOTAL COMPONENT COST: 17.837
+
+Product: 1236
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1237
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1238
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1239
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1240
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1241
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1242
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1243
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1244
+   TOTAL COMPONENT COST: 21.7564
+
+Product: 1245
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1246
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1247
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1248
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1249
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1250
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1251
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1252
+   TOTAL COMPONENT COST: 30.88
+
+Product: 1253
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1254
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1255
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1256
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1257
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1258
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1259
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1260
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1261
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1262
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1263
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1264
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1265
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1266
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1267
+   TOTAL COMPONENT COST: 398.9352
+
+Product: 1268
+   TOTAL COMPONENT COST: 658.6128
+
+Product: 1269
+   TOTAL COMPONENT COST: 334.6608
+
+Product: 1270
+   TOTAL COMPONENT COST: 349.2378
+
+Product: 1271
+   TOTAL COMPONENT COST: 431.4904
+
+Product: 1272
+   TOTAL COMPONENT COST: 402.4904
+
+Product: 1273
+   TOTAL COMPONENT COST: 296.625
+
+Product: 1274
+   TOTAL COMPONENT COST: 398.9352
+
+Product: 1275
+   TOTAL COMPONENT COST: 40.341
+
+Product: 1276
+   TOTAL COMPONENT COST: 48.4092
+
+Product: 1277
+   TOTAL COMPONENT COST: 30.3066
+
+Product: 1278
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1279
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1280
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1281
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1282
+   TOTAL COMPONENT COST: 1.654
+
+Product: 1283
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1284
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1285
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1286
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1287
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1288
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1289
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1290
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1291
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1292
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1293
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1294
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1295
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1296
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1297
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1299
+   TOTAL COMPONENT COST: 3.2884
+
+Product: 1300
+   TOTAL COMPONENT COST: 1.72
+
+Product: 1301
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1302
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1303
+   TOTAL COMPONENT COST: 3.82
+
+Product: 1304
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1305
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1306
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1307
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1308
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1309
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1310
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1311
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1312
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1313
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1314
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1315
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1316
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1317
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1318
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1319
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1320
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1321
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1322
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1323
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1324
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1325
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1326
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1327
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1328
+   TOTAL COMPONENT COST: 0.7659
+
+Product: 1329
+   TOTAL COMPONENT COST: 0.8242
+
+Product: 1330
+   TOTAL COMPONENT COST: 21.2808
+
+Product: 1331
+   TOTAL COMPONENT COST: 10.7957
+
+Product: 1332
+   TOTAL COMPONENT COST: 10.6457
+
+Product: 1333
+   TOTAL COMPONENT COST: 12.4557
+
+Product: 1334
+   TOTAL COMPONENT COST: 0.3902
+
+Product: 1335
+   TOTAL COMPONENT COST: 0.7655
+
+Product: 1336
+   TOTAL COMPONENT COST: 23.8298
+
+Product: 1337
+   TOTAL COMPONENT COST: 1.5458
+
+Product: 1338
+   TOTAL COMPONENT COST: 23.8372
+
+Product: 1339
+   TOTAL COMPONENT COST: 9.2641
+
+Product: 1340
+   TOTAL COMPONENT COST: 31.008
+
+Product: 1341
+   TOTAL COMPONENT COST: 1.5465
+
+Product: 1342
+   TOTAL COMPONENT COST: 15.4224
+
+Product: 1343
+   TOTAL COMPONENT COST: 16.2042
+
+Product: 1344
+   TOTAL COMPONENT COST: 16.9646
+
+Product: 1345
+   TOTAL COMPONENT COST: 12.9055
+
+Product: 1346
+   TOTAL COMPONENT COST: 15.487
+
+Product: 1347
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1348
+   TOTAL COMPONENT COST: 1.547
+
+Product: 1349
+   TOTAL COMPONENT COST: 3.8608
+
+Product: 1350
+   TOTAL COMPONENT COST: 1272.348
+
+Product: 1351
+   TOTAL COMPONENT COST: 33.9293
+
+Product: 1352
+   TOTAL COMPONENT COST: 17.1895
+
+Product: 1353
+   TOTAL COMPONENT COST: 44.438
+
+Product: 1354
+   TOTAL COMPONENT COST: 15.419
+
+Product: 1355
+   TOTAL COMPONENT COST: 22.219
+
+Product: 1356
+   TOTAL COMPONENT COST: 25.925
+
+Product: 1357
+   TOTAL COMPONENT COST: 34.034
+
+Product: 1358
+   TOTAL COMPONENT COST: 0.8242
+
+Product: 1359
+   TOTAL COMPONENT COST: 43.027
+
+Product: 1360
+   TOTAL COMPONENT COST: 21.5057
+
+Product: 1361
+   TOTAL COMPONENT COST: 55.539
+
+Product: 1362
+   TOTAL COMPONENT COST: 29.308
+
+Product: 1363
+   TOTAL COMPONENT COST: 27.71
+
+Product: 1364
+   TOTAL COMPONENT COST: 32.351
+
+Product: 1365
+   TOTAL COMPONENT COST: 26.52
+
+Product: 1366
+   TOTAL COMPONENT COST: 263.2434
+
+Product: 1367
+   TOTAL COMPONENT COST: 36.0335
+
+Product: 1368
+   TOTAL COMPONENT COST: 5.38
+
+Product: 1369
+   TOTAL COMPONENT COST: 79.3
+
+Product: 1370
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1371
+   TOTAL COMPONENT COST: 85.37
+
+Product: 1372
+   TOTAL COMPONENT COST: 68.55
+
+Product: 1373
+   TOTAL COMPONENT COST: 85.37
+
+Product: 1374
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1375
+   TOTAL COMPONENT COST: 8.95
+
+Product: 1376
+   TOTAL COMPONENT COST: 9.1676
+
+Product: 1377
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1378
+   TOTAL COMPONENT COST: 157.718
+
+Product: 1379
+   TOTAL COMPONENT COST: 171.0463
+
+Product: 1380
+   TOTAL COMPONENT COST: 137.7256
+
+Product: 1381
+   TOTAL COMPONENT COST: 1.698
+
+Product: 1382
+   TOTAL COMPONENT COST: 3057.0632
+
+Product: 1383
+   TOTAL COMPONENT COST: 91.7809
+
+Product: 1384
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1385
+   TOTAL COMPONENT COST: 62.35
+
+Product: 1386
+   TOTAL COMPONENT COST: 76.0381
+
+Product: 1387
+   TOTAL COMPONENT COST: 17.557
+
+Product: 1388
+   TOTAL COMPONENT COST: 43.512
+
+Product: 1389
+   TOTAL COMPONENT COST: 68.7275
+
+Product: 1390
+   TOTAL COMPONENT COST: 97.162
+
+Product: 1391
+   TOTAL COMPONENT COST: 114.6964
+
+Product: 1392
+   TOTAL COMPONENT COST: 183.954
+
+Product: 1393
+   TOTAL COMPONENT COST: 157.1361
+
+Product: 1394
+   TOTAL COMPONENT COST: 1.0836
+
+Product: 1395
+   TOTAL COMPONENT COST: 3.2852
+
+Product: 1396
+   TOTAL COMPONENT COST: 3.7496
+
+Product: 1397
+   TOTAL COMPONENT COST: 195.048
+
+Product: 1398
+   TOTAL COMPONENT COST: 292.572
+
+Product: 1399
+   TOTAL COMPONENT COST: 4.0592
+
+Product: 1400
+   TOTAL COMPONENT COST: 1.8232
+
+Product: 1401
+   TOTAL COMPONENT COST: 1.548
+
+Product: 1402
+   TOTAL COMPONENT COST: 0.8084
+
+Product: 1403
+   TOTAL COMPONENT COST: 0.8428
+
+Product: 1404
+   TOTAL COMPONENT COST: 0.2924
+
+Product: 1405
+   TOTAL COMPONENT COST: 2.6316
+
+Product: 1406
+   TOTAL COMPONENT COST: 5.2804
+
+Product: 1407
+   TOTAL COMPONENT COST: 7.7744
+
+Product: 1408
+   TOTAL COMPONENT COST: 390.096
+
+Product: 1409
+   TOTAL COMPONENT COST: 487.62
+
+Product: 1410
+   TOTAL COMPONENT COST: 0.6708
+
+Product: 1411
+   TOTAL COMPONENT COST: 2.2188
+
+Product: 1412
+   TOTAL COMPONENT COST: 4.5236
+
+Product: 1413
+   TOTAL COMPONENT COST: 2.752
+
+Product: 1414
+   TOTAL COMPONENT COST: 12.0056
+
+Product: 1415
+   TOTAL COMPONENT COST: 1.8576
+
+Product: 1416
+   TOTAL COMPONENT COST: 12.8656
+
+Product: 1417
+   TOTAL COMPONENT COST: 13.5364
+
+Product: 1418
+   TOTAL COMPONENT COST: 1.5136
+
+Product: 1419
+   TOTAL COMPONENT COST: 7.7744
+
+Product: 1420
+   TOTAL COMPONENT COST: 191.646
+
+Product: 1421
+   TOTAL COMPONENT COST: 42.1824
+
+Product: 1422
+   TOTAL COMPONENT COST: 2.0984
+
+Product: 1423
+   TOTAL COMPONENT COST: 5.9684
+
+Product: 1424
+   TOTAL COMPONENT COST: 27.7641
+
+Product: 1425
+   TOTAL COMPONENT COST: 18.662
+
+Product: 1426
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1427
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1428
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1429
+   TOTAL COMPONENT COST: 690.8
+
+Product: 1430
+   TOTAL COMPONENT COST: 177.051
+
+Product: 1431
+   TOTAL COMPONENT COST: 688.8
+
+Product: 1432
+   TOTAL COMPONENT COST: 3581.16
+
+Product: 1433
+   TOTAL COMPONENT COST: 774.418
+
+Product: 1434
+   TOTAL COMPONENT COST: 0.0527
+
+Product: 1435
+   TOTAL COMPONENT COST: 1.5609
+
+Product: 1436
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1437
+   TOTAL COMPONENT COST: 112.1526
+
+Product: 1438
+   TOTAL COMPONENT COST: 115.1196
+
+Product: 1439
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1444
+   TOTAL COMPONENT COST: 2.1
+
+Product: 1445
+   TOTAL COMPONENT COST: 3.2884
+
+Product: 1446
+   TOTAL COMPONENT COST: 1.72
+
+Product: 1447
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1448
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1449
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1450
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1451
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1452
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1453
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1454
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1455
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1456
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1457
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1458
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1460
+   TOTAL COMPONENT COST: 0.8451
+
+Product: 1461
+   TOTAL COMPONENT COST: 0.376
+
+Product: 1462
+   TOTAL COMPONENT COST: 0.5586
+
+Product: 1463
+   TOTAL COMPONENT COST: 0.9507
+
+Product: 1464
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1465
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1466
+   TOTAL COMPONENT COST: 42.79
+
+Product: 1467
+   TOTAL COMPONENT COST: 38.18
+
+Product: 1468
+   TOTAL COMPONENT COST: 49.09
+
+Product: 1469
+   TOTAL COMPONENT COST: 57.27
+
+Product: 1470
+   TOTAL COMPONENT COST: 68.55
+
+Product: 1471
+   TOTAL COMPONENT COST: 86.19
+
+Product: 1472
+   TOTAL COMPONENT COST: 68.55
+
+Product: 1473
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1474
+   TOTAL COMPONENT COST: 55.2292
+
+Product: 1475
+   TOTAL COMPONENT COST: 134.7959
+
+Product: 1476
+   TOTAL COMPONENT COST: 92.794
+
+Product: 1477
+   TOTAL COMPONENT COST: 54.5412
+
+Product: 1478
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1479
+   TOTAL COMPONENT COST: 10.75
+
+Product: 1480
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1481
+   TOTAL COMPONENT COST: 42.81
+
+Product: 1482
+   TOTAL COMPONENT COST: 65.87
+
+Product: 1483
+   TOTAL COMPONENT COST: 10.31
+
+Product: 1484
+   TOTAL COMPONENT COST: 124.75
+
+Product: 1485
+   TOTAL COMPONENT COST: 8.648
+
+Product: 1486
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1487
+   TOTAL COMPONENT COST: 14.0352
+
+Product: 1488
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1489
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1490
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1491
+   TOTAL COMPONENT COST: 43.8371
+
+Product: 1492
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1495
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1496
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1497
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1498
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1499
+   TOTAL COMPONENT COST: 17.3298
+
+Product: 1500
+   TOTAL COMPONENT COST: 19.0735
+
+Product: 1501
+   TOTAL COMPONENT COST: 20.7957
+
+Product: 1502
+   TOTAL COMPONENT COST: 22.5287
+
+Product: 1503
+   TOTAL COMPONENT COST: 25.9947
+
+Product: 1504
+   TOTAL COMPONENT COST: 7.2508
+
+Product: 1505
+   TOTAL COMPONENT COST: 12.1309
+
+Product: 1506
+   TOTAL COMPONENT COST: 34.6596
+
+Product: 1507
+   TOTAL COMPONENT COST: 36.3712
+
+Product: 1508
+   TOTAL COMPONENT COST: -38.0827
+
+Product: 1509
+   TOTAL COMPONENT COST: 33.6968
+
+Product: 1510
+   TOTAL COMPONENT COST: 43.3245
+
+Product: 1511
+   TOTAL COMPONENT COST: 40.4362
+
+Product: 1512
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1513
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1514
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1515
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1516
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1517
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1518
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1519
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1520
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1521
+   TOTAL COMPONENT COST: 78.9996
+
+Product: 1522
+   TOTAL COMPONENT COST: 31.5964
+
+Product: 1523
+   TOTAL COMPONENT COST: 52.6664
+
+Product: 1524
+   TOTAL COMPONENT COST: 21.07
+
+Product: 1525
+   TOTAL COMPONENT COST: 110.596
+
+Product: 1526
+   TOTAL COMPONENT COST: 44.2384
+
+Product: 1527
+   TOTAL COMPONENT COST: 48.4431
+
+Product: 1529
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1531
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1532
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1533
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1534
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1535
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1536
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1538
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1539
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1540
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1541
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1542
+   TOTAL COMPONENT COST: 107.1
+
+Product: 1543
+   TOTAL COMPONENT COST: 34.7218
+
+Product: 1544
+   TOTAL COMPONENT COST: 24.684
+
+Product: 1545
+   TOTAL COMPONENT COST: 21.59
+
+Product: 1546
+   TOTAL COMPONENT COST: 37.5375
+
+Product: 1547
+   TOTAL COMPONENT COST: 59.095
+
+Product: 1548
+   TOTAL COMPONENT COST: 60.265
+
+Product: 1549
+   TOTAL COMPONENT COST: 43.29
+
+Product: 1550
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1551
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1552
+   TOTAL COMPONENT COST: 6752.3117
+
+Product: 1553
+   TOTAL COMPONENT COST: 1777.6458
+
+Product: 1554
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1555
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1556
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1557
+   TOTAL COMPONENT COST: 1333.8899
+
+Product: 1558
+   TOTAL COMPONENT COST: 36.72
+
+Product: 1559
+   TOTAL COMPONENT COST: 11.5097
+
+Product: 1560
+   TOTAL COMPONENT COST: 179.724
+
+Product: 1561
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1565
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1566
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1567
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1568
+   TOTAL COMPONENT COST: 24.2046
+
+Product: 1569
+   TOTAL COMPONENT COST: 1.72
+
+Product: 1570
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1571
+   TOTAL COMPONENT COST: 199.4676
+
+Product: 1572
+   TOTAL COMPONENT COST: 322.9314
+
+Product: 1573
+   TOTAL COMPONENT COST: 20.1705
+
+Product: 1574
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1575
+   TOTAL COMPONENT COST: 201.2452
+
+Product: 1576
+   TOTAL COMPONENT COST: 1.72
+
+Product: 1577
+   TOTAL COMPONENT COST: 201.2452
+
+Product: 1578
+   TOTAL COMPONENT COST: 15.1533
+
+Product: 1579
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1580
+   TOTAL COMPONENT COST: 148.3125
+
+Product: 1581
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1582
+   TOTAL COMPONENT COST: 174.6189
+
+Product: 1583
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1584
+   TOTAL COMPONENT COST: 167.3304
+
+Product: 1585
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1586
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1589
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1590
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1591
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1592
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1593
+   TOTAL COMPONENT COST: 8.9428
+
+Product: 1594
+   TOTAL COMPONENT COST: 4.4661
+
+Product: 1595
+   TOTAL COMPONENT COST: 0.7651
+
+Product: 1596
+   TOTAL COMPONENT COST: 9.265
+
+Product: 1597
+   TOTAL COMPONENT COST: 12.053
+
+Product: 1598
+   TOTAL COMPONENT COST: 15.062
+
+Product: 1599
+   TOTAL COMPONENT COST: 6.018
+
+Product: 1600
+   TOTAL COMPONENT COST: 6.715
+
+Product: 1601
+   TOTAL COMPONENT COST: 236.6397
+
+Product: 1602
+   TOTAL COMPONENT COST: 13.9573
+
+Product: 1603
+   TOTAL COMPONENT COST: 17.4466
+
+Product: 1604
+   TOTAL COMPONENT COST: 0.8242
+
+Product: 1605
+   TOTAL COMPONENT COST: 7.7219
+
+Product: 1606
+   TOTAL COMPONENT COST: 9.2427
+
+Product: 1607
+   TOTAL COMPONENT COST: 12.3379
+
+Product: 1608
+   TOTAL COMPONENT COST: 8.483
+
+Product: 1609
+   TOTAL COMPONENT COST: 7.7219
+
+Product: 1610
+   TOTAL COMPONENT COST: 9.2427
+
+Product: 1611
+   TOTAL COMPONENT COST: 10.7957
+
+Product: 1612
+   TOTAL COMPONENT COST: 29.7845
+
+Product: 1613
+   TOTAL COMPONENT COST: 12.3379
+
+Product: 1614
+   TOTAL COMPONENT COST: 13.8695
+
+Product: 1615
+   TOTAL COMPONENT COST: 15.4224
+
+Product: 1616
+   TOTAL COMPONENT COST: 16.9646
+
+Product: 1617
+   TOTAL COMPONENT COST: 6.169
+
+Product: 1618
+   TOTAL COMPONENT COST: 0.7636
+
+Product: 1619
+   TOTAL COMPONENT COST: 7.7219
+
+Product: 1620
+   TOTAL COMPONENT COST: 8.0968
+
+Product: 1621
+   TOTAL COMPONENT COST: 8.4823
+
+Product: 1622
+   TOTAL COMPONENT COST: 8.8786
+
+Product: 1623
+   TOTAL COMPONENT COST: 10.0353
+
+Product: 1624
+   TOTAL COMPONENT COST: 10.7957
+
+Product: 1625
+   TOTAL COMPONENT COST: 12.7128
+
+Product: 1626
+   TOTAL COMPONENT COST: 13.8909
+
+Product: 1627
+   TOTAL COMPONENT COST: 5.7834
+
+Product: 1628
+   TOTAL COMPONENT COST: 6.169
+
+Product: 1629
+   TOTAL COMPONENT COST: 6.9401
+
+Product: 1630
+   TOTAL COMPONENT COST: 0.3101
+
+Product: 1631
+   TOTAL COMPONENT COST: 1909.4374
+
+Product: 1632
+   TOTAL COMPONENT COST: 33.3402
+
+Product: 1633
+   TOTAL COMPONENT COST: 15.4224
+
+Product: 1634
+   TOTAL COMPONENT COST: 13.3232
+
+Product: 1635
+   TOTAL COMPONENT COST: 7.7219
+
+Product: 1636
+   TOTAL COMPONENT COST: 8.4823
+
+Product: 1637
+   TOTAL COMPONENT COST: 34.6147
+
+Product: 1638
+   TOTAL COMPONENT COST: 43.2684
+
+Product: 1639
+   TOTAL COMPONENT COST: 16.9646
+
+Product: 1640
+   TOTAL COMPONENT COST: 30.8555
+
+Product: 1641
+   TOTAL COMPONENT COST: 6.169
+
+Product: 1642
+   TOTAL COMPONENT COST: 6.9401
+
+Product: 1643
+   TOTAL COMPONENT COST: 34.3791
+
+Product: 1644
+   TOTAL COMPONENT COST: 0.3889
+
+Product: 1645
+   TOTAL COMPONENT COST: 0.7667
+
+Product: 1646
+   TOTAL COMPONENT COST: 1.1556
+
+Product: 1647
+   TOTAL COMPONENT COST: 7.718
+
+Product: 1648
+   TOTAL COMPONENT COST: 37.026
+
+Product: 1649
+   TOTAL COMPONENT COST: 8.483
+
+Product: 1650
+   TOTAL COMPONENT COST: 9.248
+
+Product: 1651
+   TOTAL COMPONENT COST: 9.639
+
+Product: 1652
+   TOTAL COMPONENT COST: 10.795
+
+Product: 1653
+   TOTAL COMPONENT COST: 55.556
+
+Product: 1654
+   TOTAL COMPONENT COST: 5.542
+
+Product: 1655
+   TOTAL COMPONENT COST: 13.889
+
+Product: 1656
+   TOTAL COMPONENT COST: 14.263
+
+Product: 1657
+   TOTAL COMPONENT COST: 1.5445
+
+Product: 1658
+   TOTAL COMPONENT COST: 1.9222
+
+Product: 1659
+   TOTAL COMPONENT COST: 19.669
+
+Product: 1660
+   TOTAL COMPONENT COST: 20.043
+
+Product: 1661
+   TOTAL COMPONENT COST: 20.434
+
+Product: 1662
+   TOTAL COMPONENT COST: 29.308
+
+Product: 1663
+   TOTAL COMPONENT COST: 29.682
+
+Product: 1664
+   TOTAL COMPONENT COST: 5.406
+
+Product: 1665
+   TOTAL COMPONENT COST: 7.327
+
+Product: 1666
+   TOTAL COMPONENT COST: 0.5431
+
+Product: 1667
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1668
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1669
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1670
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1671
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1672
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1673
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1674
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1675
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1676
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1677
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1678
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1679
+   TOTAL COMPONENT COST: 53.7749
+
+Product: 1680
+   TOTAL COMPONENT COST: 53.7116
+
+Product: 1681
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1682
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1683
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1684
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1685
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1686
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1687
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1688
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1689
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1690
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1691
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1692
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1693
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1694
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1695
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1696
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1697
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1698
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1699
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1700
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1701
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1702
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1703
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1704
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1705
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1706
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1707
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1708
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1709
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1710
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1711
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1712
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1713
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1714
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1715
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1716
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1717
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1718
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1719
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1720
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1721
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1722
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1723
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1724
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1725
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1726
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1727
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1728
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1729
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1730
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1731
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1732
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1733
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1734
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1735
+   TOTAL COMPONENT COST: 0.46
+
+Product: 1736
+   TOTAL COMPONENT COST: 7.718
+
+Product: 1737
+   TOTAL COMPONENT COST: 8.483
+
+Product: 1738
+   TOTAL COMPONENT COST: 8.874
+
+Product: 1739
+   TOTAL COMPONENT COST: 9.248
+
+Product: 1740
+   TOTAL COMPONENT COST: 10.03
+
+Product: 1741
+   TOTAL COMPONENT COST: 10.795
+
+Product: 1742
+   TOTAL COMPONENT COST: 11.56
+
+Product: 1743
+   TOTAL COMPONENT COST: 11.951
+
+Product: 1744
+   TOTAL COMPONENT COST: 12.342
+
+Product: 1745
+   TOTAL COMPONENT COST: 12.716
+
+Product: 1746
+   TOTAL COMPONENT COST: 13.107
+
+Product: 1747
+   TOTAL COMPONENT COST: 13.498
+
+Product: 1748
+   TOTAL COMPONENT COST: 13.872
+
+Product: 1749
+   TOTAL COMPONENT COST: 14.263
+
+Product: 1750
+   TOTAL COMPONENT COST: 14.654
+
+Product: 1751
+   TOTAL COMPONENT COST: 15.419
+
+Product: 1752
+   TOTAL COMPONENT COST: 15.81
+
+Product: 1753
+   TOTAL COMPONENT COST: 16.575
+
+Product: 1754
+   TOTAL COMPONENT COST: 16.966
+
+Product: 1755
+   TOTAL COMPONENT COST: 17.357
+
+Product: 1756
+   TOTAL COMPONENT COST: 17.731
+
+Product: 1757
+   TOTAL COMPONENT COST: 18.513
+
+Product: 1758
+   TOTAL COMPONENT COST: 20.06
+
+Product: 1759
+   TOTAL COMPONENT COST: 20.825
+
+Product: 1760
+   TOTAL COMPONENT COST: 23.511
+
+Product: 1761
+   TOTAL COMPONENT COST: 23.902
+
+Product: 1762
+   TOTAL COMPONENT COST: 24.684
+
+Product: 1763
+   TOTAL COMPONENT COST: 25.449
+
+Product: 1764
+   TOTAL COMPONENT COST: 26.214
+
+Product: 1765
+   TOTAL COMPONENT COST: 26.996
+
+Product: 1766
+   TOTAL COMPONENT COST: 27.744
+
+Product: 1767
+   TOTAL COMPONENT COST: 28.509
+
+Product: 1768
+   TOTAL COMPONENT COST: 30.073
+
+Product: 1769
+   TOTAL COMPONENT COST: 30.838
+
+Product: 1770
+   TOTAL COMPONENT COST: 18.479
+
+Product: 1771
+   TOTAL COMPONENT COST: 31.552
+
+Product: 1772
+   TOTAL COMPONENT COST: 32.385
+
+Product: 1773
+   TOTAL COMPONENT COST: 33.15
+
+Product: 1774
+   TOTAL COMPONENT COST: 33.932
+
+Product: 1775
+   TOTAL COMPONENT COST: 34.697
+
+Product: 1776
+   TOTAL COMPONENT COST: 35.479
+
+Product: 1777
+   TOTAL COMPONENT COST: 36.244
+
+Product: 1778
+   TOTAL COMPONENT COST: 37.009
+
+Product: 1779
+   TOTAL COMPONENT COST: 37.791
+
+Product: 1780
+   TOTAL COMPONENT COST: 38.556
+
+Product: 1781
+   TOTAL COMPONENT COST: 23.103
+
+Product: 1782
+   TOTAL COMPONENT COST: 40.868
+
+Product: 1783
+   TOTAL COMPONENT COST: 42.415
+
+Product: 1784
+   TOTAL COMPONENT COST: 4.624
+
+Product: 1785
+   TOTAL COMPONENT COST: 5.015
+
+Product: 1786
+   TOTAL COMPONENT COST: 46.274
+
+Product: 1787
+   TOTAL COMPONENT COST: 47.804
+
+Product: 1788
+   TOTAL COMPONENT COST: 48.586
+
+Product: 1789
+   TOTAL COMPONENT COST: 49.368
+
+Product: 1790
+   TOTAL COMPONENT COST: 50.116
+
+Product: 1791
+   TOTAL COMPONENT COST: 50.898
+
+Product: 1792
+   TOTAL COMPONENT COST: 51.68
+
+Product: 1793
+   TOTAL COMPONENT COST: 5.406
+
+Product: 1794
+   TOTAL COMPONENT COST: 5.78
+
+Product: 1795
+   TOTAL COMPONENT COST: 6.562
+
+Product: 1796
+   TOTAL COMPONENT COST: 6.936
+
+Product: 1797
+   TOTAL COMPONENT COST: 8.092
+
+Product: 1798
+   TOTAL COMPONENT COST: 10.03
+
+Product: 1799
+   TOTAL COMPONENT COST: 10.404
+
+Product: 1800
+   TOTAL COMPONENT COST: 11.186
+
+Product: 1801
+   TOTAL COMPONENT COST: 11.56
+
+Product: 1802
+   TOTAL COMPONENT COST: 12.342
+
+Product: 1803
+   TOTAL COMPONENT COST: 12.716
+
+Product: 1804
+   TOTAL COMPONENT COST: 13.107
+
+Product: 1805
+   TOTAL COMPONENT COST: 15.045
+
+Product: 1806
+   TOTAL COMPONENT COST: 15.419
+
+Product: 1807
+   TOTAL COMPONENT COST: 15.81
+
+Product: 1808
+   TOTAL COMPONENT COST: 17.357
+
+Product: 1809
+   TOTAL COMPONENT COST: 17.731
+
+Product: 1810
+   TOTAL COMPONENT COST: 7.327
+
+Product: 1811
+   TOTAL COMPONENT COST: 19.669
+
+Product: 1812
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1813
+   TOTAL COMPONENT COST: 9.3439
+
+Product: 1814
+   TOTAL COMPONENT COST: 1.7024
+
+Product: 1815
+   TOTAL COMPONENT COST: 1.7002
+
+Product: 1816
+   TOTAL COMPONENT COST: 1.654
+
+Product: 1817
+   TOTAL COMPONENT COST: 1.632
+
+Product: 1818
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1819
+   TOTAL COMPONENT COST: 1.621
+
+Product: 1820
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1821
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1822
+   TOTAL COMPONENT COST: 4.5818
+
+Product: 1823
+   TOTAL COMPONENT COST: 1.533
+
+Product: 1824
+   TOTAL COMPONENT COST: 11.2089
+
+Product: 1825
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1826
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1827
+   TOTAL COMPONENT COST: 3.1974
+
+Product: 1828
+   TOTAL COMPONENT COST: 31.1484
+
+Product: 1829
+   TOTAL COMPONENT COST: 31.1484
+
+Product: 1830
+   TOTAL COMPONENT COST: 3.1974
+
+Product: 1831
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1832
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1833
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1834
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1835
+   TOTAL COMPONENT COST: 45.8431
+
+Product: 1836
+   TOTAL COMPONENT COST: 14.6276
+
+Product: 1837
+   TOTAL COMPONENT COST: 15.798
+
+Product: 1838
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1839
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1840
+   TOTAL COMPONENT COST: 18.8041
+
+Product: 1841
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1842
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1843
+   TOTAL COMPONENT COST: 14.6276
+
+Product: 1844
+   TOTAL COMPONENT COST: 15.5102
+
+Product: 1845
+   TOTAL COMPONENT COST: 2.0636
+
+Product: 1846
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1847
+   TOTAL COMPONENT COST: 0.1066
+
+Product: 1848
+   TOTAL COMPONENT COST: 4925.9066
+
+Product: 1849
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1850
+   TOTAL COMPONENT COST: 56.8632
+
+Product: 1851
+   TOTAL COMPONENT COST: 3.2646
+
+Product: 1852
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1853
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1854
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1855
+   TOTAL COMPONENT COST: 12.556
+
+Product: 1856
+   TOTAL COMPONENT COST: 264.88
+
+Product: 1857
+   TOTAL COMPONENT COST: 0.3101
+
+Product: 1858
+   TOTAL COMPONENT COST: 107.2526
+
+Product: 1859
+   TOTAL COMPONENT COST: 107.1112
+
+Product: 1860
+   TOTAL COMPONENT COST: 106.974
+
+Product: 1861
+   TOTAL COMPONENT COST: 102.8159
+
+Product: 1862
+   TOTAL COMPONENT COST: 28.2114
+
+Product: 1863
+   TOTAL COMPONENT COST: 100.7365
+
+Product: 1864
+   TOTAL COMPONENT COST: 288.6507
+
+Product: 1865
+   TOTAL COMPONENT COST: 95.13
+
+Product: 1866
+   TOTAL COMPONENT COST: 108.36
+
+Product: 1867
+   TOTAL COMPONENT COST: 142.107
+
+Product: 1868
+   TOTAL COMPONENT COST: 128.646
+
+Product: 1869
+   TOTAL COMPONENT COST: 128.646
+
+Product: 1870
+   TOTAL COMPONENT COST: 97.8243
+
+Product: 1871
+   TOTAL COMPONENT COST: 120.162
+
+Product: 1872
+   TOTAL COMPONENT COST: 230.433
+
+Product: 1873
+   TOTAL COMPONENT COST: 230.433
+
+Product: 1874
+   TOTAL COMPONENT COST: 122.514
+
+Product: 1875
+   TOTAL COMPONENT COST: 97.083
+
+Product: 1876
+   TOTAL COMPONENT COST: 97.083
+
+Product: 1877
+   TOTAL COMPONENT COST: 97.083
+
+Product: 1878
+   TOTAL COMPONENT COST: 147.84
+
+Product: 1879
+   TOTAL COMPONENT COST: 89.061
+
+Product: 1880
+   TOTAL COMPONENT COST: 120.414
+
+Product: 1881
+   TOTAL COMPONENT COST: 89.061
+
+Product: 1882
+   TOTAL COMPONENT COST: 89.922
+
+Product: 1883
+   TOTAL COMPONENT COST: 85.638
+
+Product: 1884
+   TOTAL COMPONENT COST: 113.379
+
+Product: 1885
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1886
+   TOTAL COMPONENT COST: 89.061
+
+Product: 1887
+   TOTAL COMPONENT COST: 158.025
+
+Product: 1888
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1889
+   TOTAL COMPONENT COST: 447.8
+
+Product: 1890
+   TOTAL COMPONENT COST: 447.8
+
+Product: 1891
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1892
+   TOTAL COMPONENT COST: 15.863
+
+Product: 1893
+   TOTAL COMPONENT COST: 28.1993
+
+Product: 1894
+   TOTAL COMPONENT COST: 1.96
+
+Product: 1895
+   TOTAL COMPONENT COST: 9.4705
+
+Product: 1896
+   TOTAL COMPONENT COST: 6.2436
+
+Product: 1897
+   TOTAL COMPONENT COST: 8.519
+
+Product: 1898
+   TOTAL COMPONENT COST: 36.8179
+
+Product: 1899
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1900
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1901
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1902
+   TOTAL COMPONENT COST: 72.525
+
+Product: 1903
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1904
+   TOTAL COMPONENT COST: 79.87
+
+Product: 1905
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1906
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1907
+   TOTAL COMPONENT COST: 3.975
+
+Product: 1908
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1909
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1910
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1911
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1912
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1913
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1914
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1915
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1916
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1917
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1918
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1919
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1920
+   TOTAL COMPONENT COST: 79.87
+
+Product: 1921
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1922
+   TOTAL COMPONENT COST: 50.0
+
+Product: 1923
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1924
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1925
+   TOTAL COMPONENT COST: 78.6335
+
+Product: 1926
+   TOTAL COMPONENT COST: 74.4447
+
+Product: 1927
+   TOTAL COMPONENT COST: 68.55
+
+Product: 1928
+   TOTAL COMPONENT COST: 37.79
+
+Product: 1929
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1930
+   TOTAL COMPONENT COST: 37.79
+
+Product: 1931
+   TOTAL COMPONENT COST: 37.79
+
+Product: 1932
+   TOTAL COMPONENT COST: 57.27
+
+Product: 1933
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1934
+   TOTAL COMPONENT COST: 119.6052
+
+Product: 1935
+   TOTAL COMPONENT COST: 40.0367
+
+Product: 1936
+   TOTAL COMPONENT COST: 73.7932
+
+Product: 1937
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1938
+   TOTAL COMPONENT COST: 99.7832
+
+Product: 1939
+   TOTAL COMPONENT COST: 20.5326
+
+Product: 1940
+   TOTAL COMPONENT COST: 50.1908
+
+Product: 1941
+   TOTAL COMPONENT COST: 82.1644
+
+Product: 1942
+   TOTAL COMPONENT COST: 89.0788
+
+Product: 1943
+   TOTAL COMPONENT COST: 99.4332
+
+Product: 1944
+   TOTAL COMPONENT COST: 110.4756
+
+Product: 1945
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1946
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1947
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1948
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1949
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1950
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1951
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1952
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1953
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1954
+   TOTAL COMPONENT COST: 33.335
+
+Product: 1955
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1956
+   TOTAL COMPONENT COST: 5.164
+
+Product: 1957
+   TOTAL COMPONENT COST: 51.64
+
+Product: 1958
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1959
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1960
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1961
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1962
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1963
+   TOTAL COMPONENT COST: 41.93
+
+Product: 1964
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1965
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1966
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1967
+   TOTAL COMPONENT COST: 67.58
+
+Product: 1968
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1969
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1970
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1971
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1972
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1973
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1974
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1975
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1976
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1977
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1978
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1979
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1980
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1981
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1982
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1983
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1984
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1985
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1986
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1987
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1988
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1989
+   TOTAL COMPONENT COST: 69.51
+
+Product: 1990
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1991
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1992
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1993
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1994
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1995
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1996
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1997
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1998
+   TOTAL COMPONENT COST: 0.0
+
+Product: 1999
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2000
+   TOTAL COMPONENT COST: 28.0
+
+Product: 2001
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2002
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2003
+   TOTAL COMPONENT COST: 50.0
+
+Product: 2004
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2005
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2006
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2007
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2008
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2009
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2010
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2011
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2012
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2013
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2014
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2015
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2016
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2017
+   TOTAL COMPONENT COST: 37.79
+
+Product: 2018
+   TOTAL COMPONENT COST: 55.12
+
+Product: 2019
+   TOTAL COMPONENT COST: 74.05
+
+Product: 2020
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2021
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2022
+   TOTAL COMPONENT COST: 68.55
+
+Product: 2023
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2024
+   TOTAL COMPONENT COST: 79.87
+
+Product: 2025
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2026
+   TOTAL COMPONENT COST: 27.96
+
+Product: 2027
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2028
+   TOTAL COMPONENT COST: 55.12
+
+Product: 2029
+   TOTAL COMPONENT COST: 68.55
+
+Product: 2030
+   TOTAL COMPONENT COST: 68.55
+
+Product: 2031
+   TOTAL COMPONENT COST: 37.79
+
+Product: 2032
+   TOTAL COMPONENT COST: 55.12
+
+Product: 2033
+   TOTAL COMPONENT COST: 68.55
+
+Product: 2034
+   TOTAL COMPONENT COST: 79.87
+
+Product: 2035
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2036
+   TOTAL COMPONENT COST: 19.0927
+
+Product: 2037
+   TOTAL COMPONENT COST: 95.4261
+
+Product: 2038
+   TOTAL COMPONENT COST: 37.79
+
+Product: 2039
+   TOTAL COMPONENT COST: 68.55
+
+Product: 2040
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2041
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2042
+   TOTAL COMPONENT COST: 79.87
+
+Product: 2043
+   TOTAL COMPONENT COST: 61.0742
+
+Product: 2044
+   TOTAL COMPONENT COST: 12.2148
+
+Product: 2045
+   TOTAL COMPONENT COST: 76.3334
+
+Product: 2046
+   TOTAL COMPONENT COST: 15.2667
+
+Product: 2047
+   TOTAL COMPONENT COST: 84.2628
+
+Product: 2048
+   TOTAL COMPONENT COST: 16.8526
+
+Product: 2049
+   TOTAL COMPONENT COST: 33.98
+
+Product: 2050
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2051
+   TOTAL COMPONENT COST: 67.97
+
+Product: 2052
+   TOTAL COMPONENT COST: 51.64
+
+Product: 2053
+   TOTAL COMPONENT COST: 56.0
+
+Product: 2054
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2055
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2056
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2057
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2058
+   TOTAL COMPONENT COST: 61.35
+
+Product: 2059
+   TOTAL COMPONENT COST: 66.0
+
+Product: 2060
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2061
+   TOTAL COMPONENT COST: 36.3952
+
+Product: 2062
+   TOTAL COMPONENT COST: 40.1792
+
+Product: 2063
+   TOTAL COMPONENT COST: 41.5896
+
+Product: 2064
+   TOTAL COMPONENT COST: 46.6464
+
+Product: 2065
+   TOTAL COMPONENT COST: 48.1428
+
+Product: 2066
+   TOTAL COMPONENT COST: 66.4092
+
+Product: 2067
+   TOTAL COMPONENT COST: 68.2324
+
+Product: 2068
+   TOTAL COMPONENT COST: 35.55
+
+Product: 2069
+   TOTAL COMPONENT COST: 56.0
+
+Product: 2070
+   TOTAL COMPONENT COST: 7.0
+
+Product: 2071
+   TOTAL COMPONENT COST: 68.55
+
+Product: 2072
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2073
+   TOTAL COMPONENT COST: 66.0
+
+Product: 2074
+   TOTAL COMPONENT COST: 8.25
+
+Product: 2075
+   TOTAL COMPONENT COST: 79.87
+
+Product: 2076
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2077
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2078
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2079
+   TOTAL COMPONENT COST: 7.852
+
+Product: 2080
+   TOTAL COMPONENT COST: 7.852
+
+Product: 2081
+   TOTAL COMPONENT COST: 12.4575
+
+Product: 2082
+   TOTAL COMPONENT COST: 12.4575
+
+Product: 2083
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2084
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2085
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2086
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2087
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2088
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2089
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2090
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2091
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2092
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2093
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2094
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2095
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2096
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2097
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2098
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2099
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2100
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2101
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2102
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2103
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2104
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2105
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2106
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2107
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2108
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2109
+   TOTAL COMPONENT COST: 119.6052
+
+Product: 2110
+   TOTAL COMPONENT COST: 61.0742
+
+Product: 2111
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2112
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2113
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2114
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2115
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2116
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2117
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2118
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2119
+   TOTAL COMPONENT COST: 38.1667
+
+Product: 2120
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2121
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2122
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2123
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2124
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2125
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2126
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2127
+   TOTAL COMPONENT COST: 14.688
+
+Product: 2128
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2129
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2130
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2131
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2132
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2133
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2134
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2135
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2136
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2137
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2138
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2139
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2140
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2141
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2142
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2143
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2144
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2145
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2146
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2147
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2149
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2151
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2152
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2153
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2154
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2155
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2156
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2157
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2158
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2159
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2160
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2161
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2162
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2163
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2164
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2166
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2167
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2168
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2170
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2171
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2172
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2173
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2174
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2175
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2176
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2177
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2178
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2179
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2180
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2181
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2183
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2184
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2185
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2186
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2187
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2188
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2189
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2191
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2192
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2193
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2194
+   TOTAL COMPONENT COST: 16.8166
+
+Product: 2196
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2197
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2198
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2199
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2200
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2201
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2202
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2203
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2204
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2205
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2206
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2207
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2208
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2209
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2210
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2211
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2212
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2213
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2214
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2215
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2216
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2217
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2218
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2219
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2220
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2221
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2223
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2224
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2225
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2226
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2227
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2228
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2229
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2230
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2231
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2232
+   TOTAL COMPONENT COST: 411.3
+
+Product: 2233
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2235
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2236
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2237
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2238
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2239
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2240
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2241
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2242
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2243
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2244
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2245
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2246
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2247
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2249
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2250
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2251
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2252
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2253
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2254
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2255
+   TOTAL COMPONENT COST: 12.32
+
+Product: 2256
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2257
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2258
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2259
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2260
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2261
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2262
+   TOTAL COMPONENT COST: 154.4387
+
+Product: 2263
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2265
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2266
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2267
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2268
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2269
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2270
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2271
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2272
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2273
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2274
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2275
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2276
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2277
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2279
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2280
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2281
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2282
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2283
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2284
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2285
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2286
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2287
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2288
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2289
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2290
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2291
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2292
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2293
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2294
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2295
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2296
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2297
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2298
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2299
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2300
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2301
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2302
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2303
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2304
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2305
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2306
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2307
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2308
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2309
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2310
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2311
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2312
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2313
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2314
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2315
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2316
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2317
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2318
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2319
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2320
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2321
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2322
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2323
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2324
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2325
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2326
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2327
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2328
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2329
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2330
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2331
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2332
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2333
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2334
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2335
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2336
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2337
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2338
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2339
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2340
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2341
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2342
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2343
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2344
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2345
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2346
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2347
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2348
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2349
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2350
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2351
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2352
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2353
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2354
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2355
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2356
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2357
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2358
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2359
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2360
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2361
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2362
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2363
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2364
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2365
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2366
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2367
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2368
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2369
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2370
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2371
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2372
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2373
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2374
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2375
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2376
+      Product 2376 refers to product 3038 for which there is no definition in the source data.
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2377
+   TOTAL COMPONENT COST: 11.2089
+
+Product: 2378
+   TOTAL COMPONENT COST: 23.9049
+
+Product: 2379
+   TOTAL COMPONENT COST: 28.1742
+
+Product: 2380
+   TOTAL COMPONENT COST: 46.4028
+
+Product: 2381
+   TOTAL COMPONENT COST: 31.1484
+
+Product: 2382
+   TOTAL COMPONENT COST: 31.1484
+
+Product: 2383
+   TOTAL COMPONENT COST: 26.9014
+
+Product: 2384
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2385
+   TOTAL COMPONENT COST: 45.8431
+
+Product: 2386
+   TOTAL COMPONENT COST: 14.6276
+
+Product: 2387
+   TOTAL COMPONENT COST: 15.798
+
+Product: 2388
+   TOTAL COMPONENT COST: 14.6276
+
+Product: 2389
+   TOTAL COMPONENT COST: 12.2563
+
+Product: 2390
+   TOTAL COMPONENT COST: 18.8041
+
+Product: 2391
+   TOTAL COMPONENT COST: 15.878
+
+Product: 2392
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2393
+   TOTAL COMPONENT COST: 14.6276
+
+Product: 2394
+   TOTAL COMPONENT COST: 15.5102
+
+Product: 2395
+   TOTAL COMPONENT COST: 17.7
+
+Product: 2396
+   TOTAL COMPONENT COST: 0.7107
+
+Product: 2397
+   TOTAL COMPONENT COST: 0.7107
+
+Product: 2398
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2399
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2400
+   TOTAL COMPONENT COST: 95.2605
+
+Product: 2401
+   TOTAL COMPONENT COST: 535.9864
+
+Product: 2402
+   TOTAL COMPONENT COST: 24.3896
+
+Product: 2403
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2404
+   TOTAL COMPONENT COST: 3688.3577
+
+Product: 2405
+   TOTAL COMPONENT COST: 15.1162
+
+Product: 2406
+   TOTAL COMPONENT COST: 17.5543
+
+Product: 2407
+   TOTAL COMPONENT COST: 18.7788
+
+Product: 2408
+   TOTAL COMPONENT COST: 19.8949
+
+Product: 2409
+   TOTAL COMPONENT COST: 23.0698
+
+Product: 2410
+   TOTAL COMPONENT COST: 25.3562
+
+Product: 2411
+   TOTAL COMPONENT COST: 26.0389
+
+Product: 2412
+   TOTAL COMPONENT COST: 26.3315
+
+Product: 2413
+   TOTAL COMPONENT COST: 27.3067
+
+Product: 2414
+   TOTAL COMPONENT COST: 28.7696
+
+Product: 2415
+   TOTAL COMPONENT COST: 11.5464
+
+Product: 2416
+   TOTAL COMPONENT COST: 17.4261
+
+Product: 2417
+   TOTAL COMPONENT COST: 20.9348
+
+Product: 2418
+   TOTAL COMPONENT COST: 24.2617
+
+Product: 2419
+   TOTAL COMPONENT COST: 24.4543
+
+Product: 2420
+   TOTAL COMPONENT COST: 26.2086
+
+Product: 2421
+   TOTAL COMPONENT COST: 27.9737
+
+Product: 2422
+   TOTAL COMPONENT COST: 29.7388
+
+Product: 2423
+   TOTAL COMPONENT COST: 31.1936
+
+Product: 2424
+   TOTAL COMPONENT COST: 17.1372
+
+Product: 2425
+   TOTAL COMPONENT COST: 35.0447
+
+Product: 2426
+   TOTAL COMPONENT COST: 36.8205
+
+Product: 2427
+   TOTAL COMPONENT COST: 38.5962
+
+Product: 2428
+   TOTAL COMPONENT COST: 8.519
+
+Product: 2429
+   TOTAL COMPONENT COST: 23.0079
+
+Product: 2430
+   TOTAL COMPONENT COST: 25.9964
+
+Product: 2431
+   TOTAL COMPONENT COST: 34.2959
+
+Product: 2432
+   TOTAL COMPONENT COST: 43.9235
+
+Product: 2433
+   TOTAL COMPONENT COST: 24.0692
+
+Product: 2434
+   TOTAL COMPONENT COST: 1.6977
+
+Product: 2435
+   TOTAL COMPONENT COST: 19.2553
+
+Product: 2436
+   TOTAL COMPONENT COST: 45.0681
+
+Product: 2437
+   TOTAL COMPONENT COST: 51.9894
+
+Product: 2438
+   TOTAL COMPONENT COST: 10.3608
+
+Product: 2439
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2440
+   TOTAL COMPONENT COST: 3316.194
+
+Product: 2441
+   TOTAL COMPONENT COST: 3369.681
+
+Product: 2442
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2443
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2444
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2445
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2446
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2447
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2448
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2449
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2450
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2451
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2452
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2453
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2454
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2455
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2456
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2457
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2458
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2459
+   TOTAL COMPONENT COST: 7.852
+
+Product: 2460
+   TOTAL COMPONENT COST: 7.852
+
+Product: 2461
+   TOTAL COMPONENT COST: 550.4402
+
+Product: 2462
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2463
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2464
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2465
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2466
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2467
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2468
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2469
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2470
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2471
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2472
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2473
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2474
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2475
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2476
+   TOTAL COMPONENT COST: 15.4645
+
+Product: 2477
+   TOTAL COMPONENT COST: 4.3499
+
+Product: 2478
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2479
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2480
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2481
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2482
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2483
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2484
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2485
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2486
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2487
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2488
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2489
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2490
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2491
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2492
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2493
+   TOTAL COMPONENT COST: 1.9977
+
+Product: 2494
+   TOTAL COMPONENT COST: 36.5517
+
+Product: 2495
+   TOTAL COMPONENT COST: 238.1368
+
+Product: 2496
+   TOTAL COMPONENT COST: 34.8176
+
+Product: 2497
+   TOTAL COMPONENT COST: 34.8176
+
+Product: 2498
+   TOTAL COMPONENT COST: 34.8176
+
+Product: 2499
+   TOTAL COMPONENT COST: 1.8573
+
+Product: 2500
+   TOTAL COMPONENT COST: 2.15
+
+Product: 2501
+   TOTAL COMPONENT COST: 13.33
+
+Product: 2502
+   TOTAL COMPONENT COST: 741.449
+
+Product: 2503
+   TOTAL COMPONENT COST: 140.524
+
+Product: 2504
+   TOTAL COMPONENT COST: 145.9248
+
+Product: 2505
+   TOTAL COMPONENT COST: 140.524
+
+Product: 2506
+   TOTAL COMPONENT COST: 153.467
+
+Product: 2507
+   TOTAL COMPONENT COST: 178.4328
+
+Product: 2508
+   TOTAL COMPONENT COST: 188.598
+
+Product: 2509
+   TOTAL COMPONENT COST: 189.0968
+
+Product: 2510
+   TOTAL COMPONENT COST: 192.7604
+
+Product: 2511
+   TOTAL COMPONENT COST: 199.1244
+
+Product: 2512
+   TOTAL COMPONENT COST: 219.9192
+
+Product: 2513
+   TOTAL COMPONENT COST: 227.814
+
+Product: 2514
+   TOTAL COMPONENT COST: 229.2244
+
+Product: 2515
+   TOTAL COMPONENT COST: 237.2396
+
+Product: 2516
+   TOTAL COMPONENT COST: 239.2692
+
+Product: 2517
+   TOTAL COMPONENT COST: 243.1805
+
+Product: 2518
+   TOTAL COMPONENT COST: 252.1692
+
+Product: 2519
+   TOTAL COMPONENT COST: 250.5524
+
+Product: 2520
+   TOTAL COMPONENT COST: 274.3744
+
+Product: 2521
+   TOTAL COMPONENT COST: 279.3796
+
+Product: 2522
+   TOTAL COMPONENT COST: 280.9792
+
+Product: 2523
+   TOTAL COMPONENT COST: 291.8152
+
+Product: 2524
+   TOTAL COMPONENT COST: 319.0256
+
+Product: 2525
+   TOTAL COMPONENT COST: 349.6072
+
+Product: 2526
+   TOTAL COMPONENT COST: 360.512
+
+Product: 2527
+   TOTAL COMPONENT COST: 802.466
+
+Product: 2528
+   TOTAL COMPONENT COST: 56.6396
+
+Product: 2529
+   TOTAL COMPONENT COST: 73.0484
+
+Product: 2530
+   TOTAL COMPONENT COST: 118.336
+
+Product: 2531
+   TOTAL COMPONENT COST: 195.7532
+
+Product: 2532
+   TOTAL COMPONENT COST: 704.469
+
+Product: 2533
+   TOTAL COMPONENT COST: 19.6768
+
+Product: 2534
+   TOTAL COMPONENT COST: 4.0558
+
+Product: 2535
+   TOTAL COMPONENT COST: 10.9392
+
+Product: 2536
+   TOTAL COMPONENT COST: 11.9884
+
+Product: 2537
+   TOTAL COMPONENT COST: 7.1999
+
+Product: 2538
+   TOTAL COMPONENT COST: 96.32
+
+Product: 2539
+   TOTAL COMPONENT COST: 1022.848
+
+Product: 2540
+   TOTAL COMPONENT COST: 602.0
+
+Product: 2541
+   TOTAL COMPONENT COST: 1.7024
+
+Product: 2542
+   TOTAL COMPONENT COST: 1.676
+
+Product: 2543
+   TOTAL COMPONENT COST: 1.676
+
+Product: 2544
+   TOTAL COMPONENT COST: 1.676
+
+Product: 2545
+   TOTAL COMPONENT COST: 1041.7842
+
+Product: 2546
+   TOTAL COMPONENT COST: 1.676
+
+Product: 2547
+   TOTAL COMPONENT COST: 112.6078
+
+Product: 2548
+   TOTAL COMPONENT COST: 4.8797
+
+Product: 2549
+   TOTAL COMPONENT COST: 1.632
+
+Product: 2550
+   TOTAL COMPONENT COST: 1.632
+
+Product: 2551
+   TOTAL COMPONENT COST: 45.1411
+
+Product: 2552
+   TOTAL COMPONENT COST: 45.1411
+
+Product: 2553
+   TOTAL COMPONENT COST: 1.632
+
+Product: 2554
+   TOTAL COMPONENT COST: 8.519
+
+Product: 2555
+   TOTAL COMPONENT COST: 27.238
+
+Product: 2556
+   TOTAL COMPONENT COST: 62.1138
+
+Product: 2557
+   TOTAL COMPONENT COST: 201.0458
+
+Product: 2558
+   TOTAL COMPONENT COST: 1.632
+
+Product: 2559
+   TOTAL COMPONENT COST: 1.632
+
+Product: 2560
+   TOTAL COMPONENT COST: 9.0413
+
+Product: 2561
+   TOTAL COMPONENT COST: 1.632
+
+Product: 2562
+   TOTAL COMPONENT COST: 18.5069
+
+Product: 2563
+   TOTAL COMPONENT COST: 1.632
+
+Product: 2564
+   TOTAL COMPONENT COST: 1892.9379
+
+Product: 2565
+   TOTAL COMPONENT COST: 60.0575
+
+Product: 2566
+   TOTAL COMPONENT COST: 68.6581
+
+Product: 2567
+   TOTAL COMPONENT COST: 99.2744
+
+Product: 2568
+   TOTAL COMPONENT COST: 99.4213
+
+Product: 2569
+   TOTAL COMPONENT COST: 129.091
+
+Product: 2570
+   TOTAL COMPONENT COST: 200.0503
+
+Product: 2571
+   TOTAL COMPONENT COST: 89.205
+
+Product: 2572
+   TOTAL COMPONENT COST: 13.9536
+
+Product: 2573
+   TOTAL COMPONENT COST: 13.056
+
+Product: 2574
+   TOTAL COMPONENT COST: 14.3616
+
+Product: 2575
+   TOTAL COMPONENT COST: 14.5737
+
+Product: 2576
+   TOTAL COMPONENT COST: 13.6761
+
+Product: 2577
+   TOTAL COMPONENT COST: 18.8496
+
+Product: 2578
+   TOTAL COMPONENT COST: 37.03
+
+Product: 2579
+   TOTAL COMPONENT COST: 30.3878
+
+Product: 2580
+   TOTAL COMPONENT COST: 18.7027
+
+Product: 2581
+   TOTAL COMPONENT COST: 19.584
+
+Product: 2582
+   TOTAL COMPONENT COST: 19.8777
+
+Product: 2583
+   TOTAL COMPONENT COST: 43.3132
+
+Product: 2584
+   TOTAL COMPONENT COST: 42.6931
+
+Product: 2585
+   TOTAL COMPONENT COST: 15.8141
+
+Product: 2586
+   TOTAL COMPONENT COST: 16.5974
+
+Product: 2587
+   TOTAL COMPONENT COST: 16.6953
+
+Product: 2588
+   TOTAL COMPONENT COST: 16.9238
+
+Product: 2589
+   TOTAL COMPONENT COST: 17.2339
+
+Product: 2590
+   TOTAL COMPONENT COST: 10.3142
+
+Product: 2591
+   TOTAL COMPONENT COST: 10.6243
+
+Product: 2592
+   TOTAL COMPONENT COST: 11.424
+
+Product: 2593
+   TOTAL COMPONENT COST: 12.2237
+
+Product: 2594
+   TOTAL COMPONENT COST: 14.1168
+
+Product: 2595
+   TOTAL COMPONENT COST: 15.6182
+
+Product: 2596
+   TOTAL COMPONENT COST: 16.0262
+
+Product: 2597
+   TOTAL COMPONENT COST: 17.2339
+
+Product: 2598
+   TOTAL COMPONENT COST: 19.2249
+
+Product: 2599
+   TOTAL COMPONENT COST: 21.8361
+
+Product: 2600
+   TOTAL COMPONENT COST: 22.44
+
+Product: 2601
+   TOTAL COMPONENT COST: 9.8083
+
+Product: 2602
+   TOTAL COMPONENT COST: 10.608
+
+Product: 2603
+   TOTAL COMPONENT COST: 11.832
+
+Product: 2604
+   TOTAL COMPONENT COST: 14.3942
+
+Product: 2605
+   TOTAL COMPONENT COST: 16.32
+
+Product: 2606
+   TOTAL COMPONENT COST: 16.728
+
+Product: 2607
+   TOTAL COMPONENT COST: 18.3763
+
+Product: 2608
+   TOTAL COMPONENT COST: 21.4281
+
+Product: 2609
+   TOTAL COMPONENT COST: 12.6643
+
+Product: 2610
+   TOTAL COMPONENT COST: 12.7622
+
+Product: 2611
+   TOTAL COMPONENT COST: 13.823
+
+Product: 2612
+   TOTAL COMPONENT COST: 14.5737
+
+Product: 2613
+   TOTAL COMPONENT COST: 15.8467
+
+Product: 2614
+   TOTAL COMPONENT COST: 22.342
+
+Product: 2615
+   TOTAL COMPONENT COST: 1.632
+
+Product: 2616
+   TOTAL COMPONENT COST: 14.0678
+
+Product: 2617
+   TOTAL COMPONENT COST: 28.1356
+
+Product: 2618
+   TOTAL COMPONENT COST: 20.5305
+
+Product: 2619
+   TOTAL COMPONENT COST: 29.6044
+
+Product: 2620
+   TOTAL COMPONENT COST: 24.839
+
+Product: 2621
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2622
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2623
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2624
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2625
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2626
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2627
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2628
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2629
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2630
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2631
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2632
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2633
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2634
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2635
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2636
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2637
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2638
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2639
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2640
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2641
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2642
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2643
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2644
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2645
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2646
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2647
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2648
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2649
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2650
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2651
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2652
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2653
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2654
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2655
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2656
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2657
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2658
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2659
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2660
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2661
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2662
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2663
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2664
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2665
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2666
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2667
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2668
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2669
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2670
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2671
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2672
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2673
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2674
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2675
+   TOTAL COMPONENT COST: 5.6206
+
+Product: 2676
+   TOTAL COMPONENT COST: 5.6922
+
+Product: 2677
+   TOTAL COMPONENT COST: 2.2733
+
+Product: 2678
+   TOTAL COMPONENT COST: 6.4082
+
+Product: 2679
+   TOTAL COMPONENT COST: 2.5955
+
+Product: 2680
+   TOTAL COMPONENT COST: 2.3986
+
+Product: 2681
+   TOTAL COMPONENT COST: 2.685
+
+Product: 2682
+   TOTAL COMPONENT COST: 10.0956
+
+Product: 2683
+   TOTAL COMPONENT COST: 10.2209
+
+Product: 2684
+   TOTAL COMPONENT COST: 4.0991
+
+Product: 2685
+   TOTAL COMPONENT COST: 4.0096
+
+Product: 2686
+   TOTAL COMPONENT COST: 80.1204
+
+Product: 2687
+   TOTAL COMPONENT COST: 64.8875
+
+Product: 2688
+   TOTAL COMPONENT COST: 69.6131
+
+Product: 2689
+   TOTAL COMPONENT COST: 4.1349
+
+Product: 2690
+   TOTAL COMPONENT COST: 4.7793
+
+Product: 2691
+   TOTAL COMPONENT COST: 12.0288
+
+Product: 2692
+   TOTAL COMPONENT COST: 12.1899
+
+Product: 2693
+   TOTAL COMPONENT COST: 4.475
+
+Product: 2694
+   TOTAL COMPONENT COST: 3.938
+
+Product: 2695
+   TOTAL COMPONENT COST: 3.6874
+
+Product: 2696
+   TOTAL COMPONENT COST: 6.1397
+
+Product: 2697
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2698
+   TOTAL COMPONENT COST: 195.048
+
+Product: 2699
+   TOTAL COMPONENT COST: 78.0192
+
+Product: 2700
+   TOTAL COMPONENT COST: 50.6981
+
+Product: 2701
+   TOTAL COMPONENT COST: 6.6051
+
+Product: 2702
+   TOTAL COMPONENT COST: 2.5597
+
+Product: 2703
+   TOTAL COMPONENT COST: 2.9535
+
+Product: 2704
+   TOTAL COMPONENT COST: 5.1194
+
+Product: 2705
+   TOTAL COMPONENT COST: 86.9045
+
+Product: 2706
+   TOTAL COMPONENT COST: 87.6742
+
+Product: 2707
+   TOTAL COMPONENT COST: 13.5503
+
+Product: 2708
+   TOTAL COMPONENT COST: 5.3879
+
+Product: 2709
+   TOTAL COMPONENT COST: 5.5311
+
+Product: 2710
+   TOTAL COMPONENT COST: 13.6398
+
+Product: 2711
+   TOTAL COMPONENT COST: 23.1805
+
+Product: 2712
+   TOTAL COMPONENT COST: 121.5231
+
+Product: 2713
+   TOTAL COMPONENT COST: 1.85
+
+Product: 2714
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2715
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2716
+   TOTAL COMPONENT COST: 3.1992
+
+Product: 2717
+   TOTAL COMPONENT COST: 21.414
+
+Product: 2718
+   TOTAL COMPONENT COST: 3.1648
+
+Product: 2719
+   TOTAL COMPONENT COST: 1.82
+
+Product: 2720
+   TOTAL COMPONENT COST: 24.7702
+
+Product: 2721
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2722
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2723
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2724
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2725
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2726
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2727
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2728
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2729
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2730
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2731
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2732
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2733
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2734
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2735
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2736
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2737
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2738
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2739
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2740
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2741
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2742
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2743
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2744
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2745
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2746
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2747
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2748
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2749
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2750
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2751
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2752
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2753
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2754
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2755
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2756
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2757
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2758
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2759
+   TOTAL COMPONENT COST: 2.0468
+
+Product: 2760
+   TOTAL COMPONENT COST: 2.2016
+
+Product: 2761
+   TOTAL COMPONENT COST: 26.0752
+
+Product: 2762
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2763
+   TOTAL COMPONENT COST: 1.87
+
+Product: 2764
+   TOTAL COMPONENT COST: 55.2292
+
+Product: 2765
+   TOTAL COMPONENT COST: 66.1606
+
+Product: 2766
+   TOTAL COMPONENT COST: 114.6123
+
+Product: 2767
+   TOTAL COMPONENT COST: 119.6052
+
+Product: 2768
+   TOTAL COMPONENT COST: 61.0742
+
+Product: 2769
+   TOTAL COMPONENT COST: 40.0367
+
+Product: 2770
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2771
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2772
+   TOTAL COMPONENT COST: 1.87
+
+Product: 2773
+   TOTAL COMPONENT COST: 42.4116
+
+Product: 2774
+   TOTAL COMPONENT COST: 63.6174
+
+Product: 2775
+   TOTAL COMPONENT COST: 74.4447
+
+Product: 2776
+   TOTAL COMPONENT COST: 78.6335
+
+Product: 2777
+   TOTAL COMPONENT COST: 99.7832
+
+Product: 2778
+   TOTAL COMPONENT COST: 19.0927
+
+Product: 2779
+   TOTAL COMPONENT COST: 95.4261
+
+Product: 2780
+   TOTAL COMPONENT COST: 124.4859
+
+Product: 2781
+   TOTAL COMPONENT COST: 127.2348
+
+Product: 2782
+   TOTAL COMPONENT COST: 76.3334
+
+Product: 2783
+   TOTAL COMPONENT COST: 63.6174
+
+Product: 2784
+   TOTAL COMPONENT COST: 20.5326
+
+Product: 2785
+   TOTAL COMPONENT COST: 89.0681
+
+Product: 2786
+   TOTAL COMPONENT COST: 38.1667
+
+Product: 2787
+   TOTAL COMPONENT COST: 50.9014
+
+Product: 2788
+   TOTAL COMPONENT COST: 50.1908
+
+Product: 2789
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2790
+   TOTAL COMPONENT COST: 82.1644
+
+Product: 2791
+   TOTAL COMPONENT COST: 89.0788
+
+Product: 2792
+   TOTAL COMPONENT COST: 99.4332
+
+Product: 2793
+   TOTAL COMPONENT COST: 110.4756
+
+Product: 2794
+   TOTAL COMPONENT COST: 84.2628
+
+Product: 2795
+   TOTAL COMPONENT COST: 10.148
+
+Product: 2796
+   TOTAL COMPONENT COST: 12.0056
+
+Product: 2797
+   TOTAL COMPONENT COST: 21.2076
+
+Product: 2798
+   TOTAL COMPONENT COST: 23.6156
+
+Product: 2799
+   TOTAL COMPONENT COST: 19.1092
+
+Product: 2800
+   TOTAL COMPONENT COST: 31.6136
+
+Product: 2801
+   TOTAL COMPONENT COST: 32.0092
+
+Product: 2802
+   TOTAL COMPONENT COST: 38.3044
+
+Product: 2803
+   TOTAL COMPONENT COST: 23.392
+
+Product: 2804
+   TOTAL COMPONENT COST: 36.3952
+
+Product: 2805
+   TOTAL COMPONENT COST: 40.1792
+
+Product: 2806
+   TOTAL COMPONENT COST: 46.6464
+
+Product: 2807
+   TOTAL COMPONENT COST: 41.5896
+
+Product: 2808
+   TOTAL COMPONENT COST: 48.1428
+
+Product: 2809
+   TOTAL COMPONENT COST: 54.5412
+
+Product: 2810
+   TOTAL COMPONENT COST: 66.4092
+
+Product: 2811
+   TOTAL COMPONENT COST: 68.2324
+
+Product: 2812
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2813
+   TOTAL COMPONENT COST: 92.794
+
+Product: 2814
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2815
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2816
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2817
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2818
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2819
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2821
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2822
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2823
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2824
+   TOTAL COMPONENT COST: 37509.1571
+
+Product: 2825
+   TOTAL COMPONENT COST: 2.1
+
+Product: 2826
+   TOTAL COMPONENT COST: 1.1868
+
+Product: 2827
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2828
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2829
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2830
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2831
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2832
+   TOTAL COMPONENT COST: 0.2924
+
+Product: 2833
+   TOTAL COMPONENT COST: 0.3096
+
+Product: 2834
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2835
+   TOTAL COMPONENT COST: 2.924
+
+Product: 2836
+   TOTAL COMPONENT COST: 46.8184
+
+Product: 2837
+   TOTAL COMPONENT COST: 36.5672
+
+Product: 2838
+   TOTAL COMPONENT COST: 14.6372
+
+Product: 2839
+   TOTAL COMPONENT COST: 3.87
+
+Product: 2840
+   TOTAL COMPONENT COST: 4.7472
+
+Product: 2841
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2842
+   TOTAL COMPONENT COST: 18.8856
+
+Product: 2843
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2844
+   TOTAL COMPONENT COST: 5.4868
+
+Product: 2845
+   TOTAL COMPONENT COST: 15.2392
+
+Product: 2846
+   TOTAL COMPONENT COST: 25.5936
+
+Product: 2847
+   TOTAL COMPONENT COST: 30.2548
+
+Product: 2848
+   TOTAL COMPONENT COST: 23.2544
+
+Product: 2849
+   TOTAL COMPONENT COST: 26.0064
+
+Product: 2850
+   TOTAL COMPONENT COST: 28.7412
+
+Product: 2851
+   TOTAL COMPONENT COST: 31.4932
+
+Product: 2852
+   TOTAL COMPONENT COST: 34.228
+
+Product: 2853
+   TOTAL COMPONENT COST: 36.98
+
+Product: 2854
+   TOTAL COMPONENT COST: 34.8644
+
+Product: 2855
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2856
+   TOTAL COMPONENT COST: 7.2928
+
+Product: 2857
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2858
+   TOTAL COMPONENT COST: 5.1428
+
+Product: 2859
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2860
+   TOTAL COMPONENT COST: 6.3468
+
+Product: 2861
+   TOTAL COMPONENT COST: 9.8212
+
+Product: 2862
+   TOTAL COMPONENT COST: 11.1112
+
+Product: 2863
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2864
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2865
+   TOTAL COMPONENT COST: 0.516
+
+Product: 2866
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2867
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2868
+   TOTAL COMPONENT COST: 2.666
+
+Product: 2869
+   TOTAL COMPONENT COST: 2.7692
+
+Product: 2870
+   TOTAL COMPONENT COST: 8.1012
+
+Product: 2871
+   TOTAL COMPONENT COST: 5.0224
+
+Product: 2872
+   TOTAL COMPONENT COST: 5.5384
+
+Product: 2873
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2874
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2875
+   TOTAL COMPONENT COST: 35.1052
+
+Product: 2876
+   TOTAL COMPONENT COST: 11.4724
+
+Product: 2877
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2878
+   TOTAL COMPONENT COST: 21.7752
+
+Product: 2879
+   TOTAL COMPONENT COST: 21.9472
+
+Product: 2880
+   TOTAL COMPONENT COST: 25.972
+
+Product: 2881
+   TOTAL COMPONENT COST: 31.132
+
+Product: 2882
+   TOTAL COMPONENT COST: 69.4536
+
+Product: 2883
+   TOTAL COMPONENT COST: 41.6584
+
+Product: 2884
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2885
+   TOTAL COMPONENT COST: 4.5064
+
+Product: 2886
+   TOTAL COMPONENT COST: 4.6096
+
+Product: 2887
+   TOTAL COMPONENT COST: 0.344
+
+Product: 2888
+   TOTAL COMPONENT COST: 11.1284
+
+Product: 2889
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2890
+   TOTAL COMPONENT COST: 135.2264
+
+Product: 2891
+   TOTAL COMPONENT COST: 155.9524
+
+Product: 2892
+   TOTAL COMPONENT COST: 38.7
+
+Product: 2893
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2895
+   TOTAL COMPONENT COST: 3.4056
+
+Product: 2896
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2897
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2898
+   TOTAL COMPONENT COST: 10.6124
+
+Product: 2899
+   TOTAL COMPONENT COST: 89.7324
+
+Product: 2900
+   TOTAL COMPONENT COST: 185.5708
+
+Product: 2901
+   TOTAL COMPONENT COST: 116.3236
+
+Product: 2902
+   TOTAL COMPONENT COST: 188.8216
+
+Product: 2903
+   TOTAL COMPONENT COST: 385.1252
+
+Product: 2904
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2905
+   TOTAL COMPONENT COST: 3.4056
+
+Product: 2906
+   TOTAL COMPONENT COST: 9.3396
+
+Product: 2907
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2908
+   TOTAL COMPONENT COST: 0.43
+
+Product: 2909
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2910
+   TOTAL COMPONENT COST: 4.1452
+
+Product: 2911
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2912
+   TOTAL COMPONENT COST: 585.144
+
+Product: 2913
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2914
+   TOTAL COMPONENT COST: 13.1064
+
+Product: 2915
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2916
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2917
+   TOTAL COMPONENT COST: 1.29
+
+Product: 2918
+   TOTAL COMPONENT COST: 2.7692
+
+Product: 2919
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2920
+   TOTAL COMPONENT COST: 31.2008
+
+Product: 2921
+   TOTAL COMPONENT COST: 30.3408
+
+Product: 2922
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2923
+   TOTAL COMPONENT COST: 17.114
+
+Product: 2924
+   TOTAL COMPONENT COST: 114.9876
+
+Product: 2925
+   TOTAL COMPONENT COST: 274.8954
+
+Product: 2926
+   TOTAL COMPONENT COST: 19.1646
+
+Product: 2927
+   TOTAL COMPONENT COST: 252.5874
+
+Product: 2928
+   TOTAL COMPONENT COST: 258.739
+
+Product: 2929
+   TOTAL COMPONENT COST: 276.3488
+
+Product: 2930
+   TOTAL COMPONENT COST: 30.6566
+
+Product: 2931
+   TOTAL COMPONENT COST: 53.4716
+
+Product: 2932
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2933
+   TOTAL COMPONENT COST: 3.5604
+
+Product: 2934
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2935
+   TOTAL COMPONENT COST: 7.7916
+
+Product: 2936
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2937
+   TOTAL COMPONENT COST: 11.4036
+
+Product: 2938
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2939
+   TOTAL COMPONENT COST: 108.8192
+
+Product: 2940
+   TOTAL COMPONENT COST: 12.1604
+
+Product: 2941
+   TOTAL COMPONENT COST: 5.762
+
+Product: 2942
+   TOTAL COMPONENT COST: 12.8656
+
+Product: 2943
+   TOTAL COMPONENT COST: 7.6024
+
+Product: 2944
+   TOTAL COMPONENT COST: 8.2216
+
+Product: 2945
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2946
+   TOTAL COMPONENT COST: 6.02
+
+Product: 2947
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2948
+   TOTAL COMPONENT COST: 10.75
+
+Product: 2949
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2950
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2951
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2952
+   TOTAL COMPONENT COST: 1370.84
+
+Product: 2953
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2954
+   TOTAL COMPONENT COST: 61.3352
+
+Product: 2955
+   TOTAL COMPONENT COST: 1.72
+
+Product: 2956
+   TOTAL COMPONENT COST: 156.0384
+
+Product: 2957
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2958
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2959
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2960
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2961
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2962
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2963
+   TOTAL COMPONENT COST: 51.956
+
+Product: 2964
+   TOTAL COMPONENT COST: 22.8103
+
+Product: 2965
+   TOTAL COMPONENT COST: 45.6207
+
+Product: 2966
+   TOTAL COMPONENT COST: 28.5087
+
+Product: 2967
+   TOTAL COMPONENT COST: 71.2802
+
+Product: 2968
+   TOTAL COMPONENT COST: 34.2071
+
+Product: 2969
+   TOTAL COMPONENT COST: 102.6382
+
+Product: 2970
+   TOTAL COMPONENT COST: 45.6207
+
+Product: 2971
+   TOTAL COMPONENT COST: 182.4492
+
+Product: 2972
+   TOTAL COMPONENT COST: 102.6382
+
+Product: 2973
+   TOTAL COMPONENT COST: 513.1573
+
+Product: 2974
+   TOTAL COMPONENT COST: 128.2977
+
+Product: 2975
+   TOTAL COMPONENT COST: 1.7365
+
+Product: 2976
+   TOTAL COMPONENT COST: 53.213
+
+Product: 2977
+   TOTAL COMPONENT COST: 22117.8642
+
+Product: 2978
+   TOTAL COMPONENT COST: 15420.1536
+
+Product: 2979
+   TOTAL COMPONENT COST: 173.712
+
+Product: 2980
+   TOTAL COMPONENT COST: 13223.6313
+
+Product: 2981
+   TOTAL COMPONENT COST: 507.5187
+
+Product: 2982
+   TOTAL COMPONENT COST: 206.0044
+
+Product: 2983
+   TOTAL COMPONENT COST: 36.8179
+
+Product: 2984
+   TOTAL COMPONENT COST: 4.2695
+
+Product: 2985
+   TOTAL COMPONENT COST: 0.0
+
+Product: 2986
+   TOTAL COMPONENT COST: 1.654
+
+Product: 2987
+   TOTAL COMPONENT COST: 1.621
+
+Product: 3014
+   TOTAL COMPONENT COST: 63.9564
+
+Product: 3015
+   TOTAL COMPONENT COST: 63.9564
+
+Product: 3016
+   TOTAL COMPONENT COST: 24.4734
+
+Product: 3017
+   TOTAL COMPONENT COST: 24.4734
+
+Product: 3018
+   TOTAL COMPONENT COST: 37.4478
+
+Product: 3019
+   TOTAL COMPONENT COST: 37.4478
+
+Product: 3020
+   TOTAL COMPONENT COST: 54.5969
+
+Product: 3021
+   TOTAL COMPONENT COST: 54.5969
+
+Product: 3022
+   TOTAL COMPONENT COST: 71.0621
+
+Product: 3023
+   TOTAL COMPONENT COST: 71.0621
+
+Product: 3024
+   TOTAL COMPONENT COST: 56.8506
+
+Product: 3025
+   TOTAL COMPONENT COST: 56.8506
+
+Product: 3026
+   TOTAL COMPONENT COST: 1.6924
+
+Product: 3027
+   TOTAL COMPONENT COST: 1.6924
+
+Product: 3028
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3029
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3030
+   TOTAL COMPONENT COST: 23.2974
+
+Product: 3031
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3032
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3033
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3034
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3035
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3036
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3037
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3039
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3040
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3041
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3042
+   TOTAL COMPONENT COST: 1342.2656
+
+Product: 3043
+   TOTAL COMPONENT COST: 1342.2656
+
+Product: 3044
+   TOTAL COMPONENT COST: 180.6
+
+Product: 3045
+   TOTAL COMPONENT COST: 359.48
+
+Product: 3046
+   TOTAL COMPONENT COST: 142.76
+
+Product: 3047
+   TOTAL COMPONENT COST: 350.88
+
+Product: 3048
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3049
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3050
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3051
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3052
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3053
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3054
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3055
+   TOTAL COMPONENT COST: 3.02
+
+Product: 3056
+   TOTAL COMPONENT COST: 3.02
+
+Product: 3057
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3058
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3059
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3060
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3061
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3062
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3063
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3064
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3065
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3066
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3067
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3068
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3069
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3070
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3071
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3072
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3073
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3074
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3075
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3076
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3077
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3078
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3079
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3080
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3081
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3082
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3083
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3084
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3085
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3086
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3087
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3088
+   TOTAL COMPONENT COST: 28.1993
+
+Product: 3089
+   TOTAL COMPONENT COST: 1.96
+
+Product: 3090
+   TOTAL COMPONENT COST: 9.4705
+
+Product: 3091
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3092
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3093
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3094
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3096
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3097
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3098
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3099
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3100
+   TOTAL COMPONENT COST: 17.99
+
+Product: 3101
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3102
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3103
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3104
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3105
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3106
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3107
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3108
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3109
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3110
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3111
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3112
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3113
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3114
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3115
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3116
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3117
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3118
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3119
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3120
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3121
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3122
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3123
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3124
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3125
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3126
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3127
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3128
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3129
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3130
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3131
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3132
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3133
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3134
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3135
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3136
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3137
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3138
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3139
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3140
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3141
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3142
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3143
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3144
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3145
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3146
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3147
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3148
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3149
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3150
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3151
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3152
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3153
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3154
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3155
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3156
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3157
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3158
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3159
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3160
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3161
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3162
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3163
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3164
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3165
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3166
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3167
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3168
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3169
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3170
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3171
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3172
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3173
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3174
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3175
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3176
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3177
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3178
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3179
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3180
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3181
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3182
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3183
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3184
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3185
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3186
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3187
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3188
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3189
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3190
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3191
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3192
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3193
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3194
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3195
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3196
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3197
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3198
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3199
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3200
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3201
+   TOTAL COMPONENT COST: 17.2013
+
+Product: 3202
+   TOTAL COMPONENT COST: 0.7627
+
+Product: 3203
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3204
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3205
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3206
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3207
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3208
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3209
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3210
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3211
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3212
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3213
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3214
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3215
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3216
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3217
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3218
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3219
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3220
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3221
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3222
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3223
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3224
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3225
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3226
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3227
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3228
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3229
+   TOTAL COMPONENT COST: 0.0071
+
+Product: 3230
+   TOTAL COMPONENT COST: 1.5987
+
+Product: 3231
+   TOTAL COMPONENT COST: 1.7197
+
+Product: 3232
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3233
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3234
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3235
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3236
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3237
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3238
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3239
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3240
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3241
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3242
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3243
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3244
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3245
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3246
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3247
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3248
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3249
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3250
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3251
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3252
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3253
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3254
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3255
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3256
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3257
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3258
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3259
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3260
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3261
+   TOTAL COMPONENT COST: 0.2047
+
+Product: 3262
+   TOTAL COMPONENT COST: 0.2047
+
+Product: 3263
+   TOTAL COMPONENT COST: 1.8815
+
+Product: 3264
+   TOTAL COMPONENT COST: 1.3709
+
+Product: 3265
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3266
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3267
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3268
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3269
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3270
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3271
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3272
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3273
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3274
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3275
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3276
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3277
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3278
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3279
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3280
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3281
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3283
+   TOTAL COMPONENT COST: 10.75
+
+Product: 3284
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3285
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3286
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3287
+   TOTAL COMPONENT COST: 19.3362
+
+Product: 3290
+   TOTAL COMPONENT COST: 0.034
+
+Product: 3291
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3295
+   TOTAL COMPONENT COST: 8.483
+
+Product: 3296
+   TOTAL COMPONENT COST: 1.72
+
+Product: 3297
+      Product 3297 refers to product 3355 for which there is no definition in the source data.
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3299
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3300
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3301
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3302
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3304
+   TOTAL COMPONENT COST: 156.0384
+
+Product: 3305
+   TOTAL COMPONENT COST: 19.69
+
+Product: 3306
+   TOTAL COMPONENT COST: 1.72
+
+Product: 3307
+   TOTAL COMPONENT COST: 1.72
+
+Product: 3308
+   TOTAL COMPONENT COST: 1.72
+
+Product: 3309
+   TOTAL COMPONENT COST: 1658.9094
+
+Product: 3310
+   TOTAL COMPONENT COST: 2.2214
+
+Product: 3311
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3312
+   TOTAL COMPONENT COST: 447.8
+
+Product: 3313
+   TOTAL COMPONENT COST: 44.78
+
+Product: 3314
+   TOTAL COMPONENT COST: 15.48
+
+Product: 3315
+   TOTAL COMPONENT COST: 1.72
+
+Product: 3316
+   TOTAL COMPONENT COST: 16.3916
+
+Product: 3320
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3321
+   TOTAL COMPONENT COST: 52.73
+
+Product: 3322
+   TOTAL COMPONENT COST: 5.32
+
+Product: 3324
+   TOTAL COMPONENT COST: 1.632
+
+Product: 3325
+   TOTAL COMPONENT COST: 28.7884
+
+Product: 3326
+   TOTAL COMPONENT COST: 1.632
+
+Product: 3327
+   TOTAL COMPONENT COST: 44.423
+
+Product: 3328
+   TOTAL COMPONENT COST: 45.8102
+
+Product: 3329
+   TOTAL COMPONENT COST: 60.0738
+
+Product: 3330
+   TOTAL COMPONENT COST: 1.632
+
+Product: 3331
+   TOTAL COMPONENT COST: 1.632
+
+Product: 3332
+   TOTAL COMPONENT COST: 1.632
+
+Product: 3333
+   TOTAL COMPONENT COST: 1.632
+
+Product: 3334
+   TOTAL COMPONENT COST: 1.632
+
+Product: 3335
+   TOTAL COMPONENT COST: 1.5014
+
+Product: 3336
+   TOTAL COMPONENT COST: 2.2522
+
+Product: 3337
+   TOTAL COMPONENT COST: 3.7536
+
+Product: 3338
+   TOTAL COMPONENT COST: 11.2445
+
+Product: 3339
+   TOTAL COMPONENT COST: 9.9878
+
+Product: 3340
+   TOTAL COMPONENT COST: 19.992
+
+Product: 3341
+   TOTAL COMPONENT COST: 39.9676
+
+Product: 3342
+   TOTAL COMPONENT COST: 44.423
+
+Product: 3343
+   TOTAL COMPONENT COST: 49.9718
+
+Product: 3344
+   TOTAL COMPONENT COST: 21.7564
+
+Product: 3345
+   TOTAL COMPONENT COST: 161.8004
+
+Product: 3346
+   TOTAL COMPONENT COST: 1.1455
+
+Product: 3347
+   TOTAL COMPONENT COST: 3560.4
+
+Product: 3348
+   TOTAL COMPONENT COST: 1370.84
+
+Product: 3349
+   TOTAL COMPONENT COST: 1.0492
+
+Product: 3350
+   TOTAL COMPONENT COST: 249.847
+
+Product: 3351
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3352
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3354
+   TOTAL COMPONENT COST: 4.065
+
+Product: 3356
+   TOTAL COMPONENT COST: 4.065
+
+Product: 3358
+   TOTAL COMPONENT COST: 4.065
+
+Product: 3359
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3360
+   TOTAL COMPONENT COST: 8.6672
+
+Product: 3361
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3362
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3363
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3365
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3367
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3368
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3369
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3370
+   TOTAL COMPONENT COST: 19.005
+
+Product: 3371
+   TOTAL COMPONENT COST: 22.81
+
+Product: 3372
+   TOTAL COMPONENT COST: 24.375
+
+Product: 3373
+   TOTAL COMPONENT COST: 28.19
+
+Product: 3374
+   TOTAL COMPONENT COST: 26.0236
+
+Product: 3375
+   TOTAL COMPONENT COST: 30.96
+
+Product: 3376
+   TOTAL COMPONENT COST: 25.4904
+
+Product: 3377
+   TOTAL COMPONENT COST: 27.0728
+
+Product: 3378
+   TOTAL COMPONENT COST: 86.2576
+
+Product: 3379
+   TOTAL COMPONENT COST: 229.9752
+
+Product: 3380
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3381
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3383
+   TOTAL COMPONENT COST: 89.3334
+
+Product: 3384
+   TOTAL COMPONENT COST: 89.3334
+
+Product: 3386
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3388
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3389
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3390
+   TOTAL COMPONENT COST: 0.9955
+
+Product: 3391
+   TOTAL COMPONENT COST: 10.795
+
+Product: 3392
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3393
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3394
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3395
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3396
+   TOTAL COMPONENT COST: 30.4612
+
+Product: 3397
+   TOTAL COMPONENT COST: 36.6016
+
+Product: 3398
+   TOTAL COMPONENT COST: 21.8784
+
+Product: 3399
+   TOTAL COMPONENT COST: 28.638
+
+Product: 3400
+   TOTAL COMPONENT COST: 35.4612
+
+Product: 3401
+   TOTAL COMPONENT COST: 41.6016
+
+Product: 3402
+   TOTAL COMPONENT COST: 26.8784
+
+Product: 3403
+   TOTAL COMPONENT COST: 33.638
+
+Product: 3404
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3405
+   TOTAL COMPONENT COST: 15.48
+
+Product: 3406
+   TOTAL COMPONENT COST: 2003.8
+
+Product: 3407
+   TOTAL COMPONENT COST: 27.1588
+
+Product: 3408
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3409
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3410
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3411
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3412
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3413
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3414
+   TOTAL COMPONENT COST: 45.84
+
+Product: 3415
+   TOTAL COMPONENT COST: 87.92
+
+Product: 3416
+   TOTAL COMPONENT COST: 117.0288
+
+Product: 3417
+   TOTAL COMPONENT COST: 56.1752
+
+Product: 3418
+   TOTAL COMPONENT COST: 42.1228
+
+Product: 3419
+   TOTAL COMPONENT COST: 28.0876
+
+Product: 3420
+   TOTAL COMPONENT COST: 394.6368
+
+Product: 3421
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3424
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3426
+   TOTAL COMPONENT COST: 0.0
+
+Product: 3427
+   TOTAL COMPONENT COST: 13.415
+
+Product: 3428
+   TOTAL COMPONENT COST: 14.2277
+
+Product: 3429
+   TOTAL COMPONENT COST: 14.3144
+
+Product: 3430
+   TOTAL COMPONENT COST: 13.8159
+
+Product: 3431
+   TOTAL COMPONENT COST: 16.3949
+
+Product: 3432
+   TOTAL COMPONENT COST: 14.8128
+
+Product: 3434
+   TOTAL COMPONENT COST: 16.512
+
